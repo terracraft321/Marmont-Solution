@@ -1,0 +1,122 @@
+[
+  {
+    "row": 1,
+    "text": "Renfermant les ordres et instructions que [Sa Majesté] m'a chargé de vous donner. Je m'em",
+    "note": "TARGET is unresolved. [Sa Majesté] is a contextual expansion. Spacing, accents and punctuation are editorial."
+  },
+  {
+    "row": 2,
+    "text": "presse aujourd'hui de vous donner connaissance de la position d'armées fran",
+    "note": "DONNES→DONNER is an editorial repair; I→J in AUIOURDHUI is spelling normalization. The SS and other context-led values in CONNAISSANCE remain proposed key assignments."
+  },
+  {
+    "row": 3,
+    "text": "çaises et alliées. Le duc de Danzig à la tête de quarante mille Bavarois",
+    "note": "Spacing, accents and punctuation only. The troop strength is a statement in the correspondence."
+  },
+  {
+    "row": 4,
+    "text": "occupe Munich et Passau. Le prince Poniatowski à la tête de trente mille",
+    "note": "MUNICHE→MUNICHET adds T; VV→W in Poniatowski normalizes spelling; MILL→MILLE adds E. ARCH_COMPOUND is provisionally empty, with ET retained as an alternative."
+  },
+  {
+    "row": 5,
+    "text": "Polonais est campé sur la Vistule, menaçant Cracovie. Le prince de Ponte-",
+    "note": "ERT→EST and CAMPI→CAMPE are editorial repairs; the literal glyph values remain visible."
+  },
+  {
+    "row": 6,
+    "text": "Corvo commande l'armée saxonne campée en avant de Dresde et le duc d'Auerstaedt",
+    "note": "AUERSTAF→AUERSTAEDT restores the historical name. DEAUERSTAF→DAUERSTAEDT also contracts DE before the vowel."
+  },
+  {
+    "row": 7,
+    "text": "occupe Bayreuth avec quatre-vingt mille Français et le duc de Rivoli com",
+    "note": "BAREUTH→BAYREUTH restores the place name; RIUOLI→RIVOLI normalizes U/V. The compound LE value is contextual."
+  },
+  {
+    "row": 8,
+    "text": "mande soixante mille hommes cantonnés à Ulm et Donaverth. Le [général]",
+    "note": "HOMMET→HOMMES is editorial; the key retains q=T. GENERAL is a contextual singleton codeword proposal. Donaverth is retained."
+  },
+  {
+    "row": 9,
+    "text": "Oudinot avec le corps d'élite formant quarante mille hommes est à",
+    "note": "DEELITE→DELITE contracts the word-sign DE before ELITE. Spacing and punctuation are editorial."
+  },
+  {
+    "row": 10,
+    "text": "Augsbourg et sur le Lech. Les Russes marchent sur l'Autriche et l'armée [du]",
+    "note": "FOUR_DOTS=DE is provisional; DANS is an alternative. The reading contracts DE and the next row’s LE to DU across the row boundary."
+  },
+  {
+    "row": 11,
+    "text": "Frioul est aujourd'hui de quatre-vingt mille hommes. Ajoutez à cela",
+    "note": "QUSTRE→QUATRE is editorial. Initial LE is contracted with DE at the end of row 10 to give DU. The proposed J value is retained in AJOUTEZ."
+  },
+  {
+    "row": 12,
+    "text": "le corps d'armée de Dalmatie, sans comprendre les réserves qui",
+    "note": "QTI→QUI is editorial. The quartered-circle sign has a proposed punctuation value."
+  },
+  {
+    "row": 13,
+    "text": "s'organisent de toutes parts sur les derrières et vous voyez que l'Autriche sera",
+    "note": "TDERGANISENT→SORGANISENT and TOURES→TOUTES are editorial repairs; the literal values are retained in the decoding."
+  },
+  {
+    "row": 14,
+    "text": "attaquée à la fois sur tous les points et elle court par conséquent à grands",
+    "note": "TOUR→TOUS is editorial. CONSEQUENT consists of ten visible cleartext letters, not cipher units."
+  },
+  {
+    "row": 15,
+    "text": "pas vers sa perte et vous ne devez, alors que vous recevrez ordre de marcher, vous en",
+    "note": "Spacing, accents and punctuation only."
+  },
+  {
+    "row": 16,
+    "text": "laisser imposer par quelques troupes ou un rassemblement de canailles.",
+    "note": "RHO is provisionally empty; PAR is also possible. LOW_INWARD_ARCH=S gives plural CANAILLES; an empty value gives singular CANAILLE."
+  },
+  {
+    "row": 17,
+    "text": "J'attends toujours de vos nouvelles avec impatience. Les Autrichiens sont",
+    "note": "JEATTENDS→JATTENDS contracts JE; TOUIOURS→TOUJOURS normalizes I/J. Comma versus full stop is editorial."
+  },
+  {
+    "row": 18,
+    "text": "toujours à Laybach, Klagenfurth, Villach et Salzburg et semblent",
+    "note": "SEMBLANT→SEMBLENT is editorial. Historical place-name spellings are retained."
+  },
+  {
+    "row": 19,
+    "text": "menacer le Tyrol par Lintz et cependant on croirait qu'ils songent à",
+    "note": "QUEILS→QUILS contracts QUE. LINTZ is retained without choosing between a Linz or Lienz interpretation."
+  },
+  {
+    "row": 20,
+    "text": "porter des troupes en Galicie pour s'opposer aux Russes. Ces dispositions fe",
+    "note": "DISPOSIONS→DISPOSITIONS inserts TI editorially. The G in GALICIE is a contextual singleton assignment."
+  },
+  {
+    "row": 21,
+    "text": "raient présager que leur plan de campagne est dérangé avant que la guerre",
+    "note": "Spacing, accents and punctuation only; the final key includes the proposed reading of the blotted x sign."
+  },
+  {
+    "row": 22,
+    "text": "soit encore déclarée et il n'y a toutefois rien encore de positif. Les milices",
+    "note": "ILNEYAT→ILNYAT contracts NE before Y. RIEN and MILICES include the proposed readings of uncertain stem-circle and blotted-theta signs."
+  },
+  {
+    "row": 23,
+    "text": "sont mises en activité et quoiqu'on ait cherché à monter les têtes, il n'est pas",
+    "note": "QUOIQUEON→QUOIQUON contracts QUE. The quartered circle is proposed punctuation; TRIPLEBAR=H gives CHERCHE."
+  },
+  {
+    "row": 24,
+    "text": "encore prouvé que ces levées soyent d'un grand renfort pour l'armée.",
+    "note": "DEUN→DUN contracts DE. SOYENT is retained as written rather than modernized to SOIENT; accents and punctuation are editorial."
+  }
+]

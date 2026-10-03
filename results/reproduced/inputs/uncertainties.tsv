@@ -1,0 +1,49 @@
+label	value	occurrences	alternatives	status	note
+Y_LOWERLOOP	S	1	"[""S""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+DIAG_OPPOSED_TRIANGLES	ET	1	"[""ET""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+BOWTIE_BOTTOM_FORM	QUE	1	"[""QUE""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+TARGET	⟦UNRESOLVED:TARGET⟧	1	"[""SAMAJESTE"",""LEMPEREUR"",""ELLE""]"	open_alternatives	Multiple contextual readings remain possible; listed proposals are not exhaustive or authenticated.
+BOX_STEM_DOT		1	"[""""]"	empty_or_punctuation	The literal output is empty or punctuation; the historical function remains uncertain.
+IDOUBLE	M	1	"[""M""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+2	N	1	"[""N""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+ORNATE_CROSSED_STEM	SS	1	"[""SS""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+FORKED_HOOK	A	1	"[""A""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+SEMICOLON	S	1	"[""S""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+TRAPEZOID	D	1	"[""D""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+RECTDOT		4	"[""""]"	empty_or_punctuation	The literal output is empty or punctuation; the historical function remains uncertain.
+PARALLELOGRAM	Q	1	"[""Q""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+A	E	2	"[""E""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+ARCH_COMPOUND		1	"["""",""ET""]"	open_alternatives	Multiple contextual readings remain possible; listed proposals are not exhaustive or authenticated.
+20	N	1	"[""N""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+V_SHARP	K	1	"[""K""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+CROSSED_DOUBLE_LOOP	T	1	"[""T""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+RECTSTACK	H	1	"[""H""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+ARCH_COMPOUND_TALL	LE	1	"[""LE""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+DIAMONDCROSS	GENERAL	1	"[""GENERAL""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+BANG_CURLED	S	1	"[""S""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+w	A	1	"[""A""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+STEMCIRCLE_DARK	E	1	"[""E""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+FOUR_DOTS	DE	1	"[""DE"",""DANS""]"	open_alternatives	Multiple contextual readings remain possible; listed proposals are not exhaustive or authenticated.
+E	J	1	"[""J""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+DOTTEDBOX3	H	1	"[""H""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+CIRCLE_CROSS	,	2	"["",""]"	empty_or_punctuation	The literal output is empty or punctuation; the historical function remains uncertain.
+LAMBDA	QUE	1	"[""QUE""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+DOUBLEX	T	1	"[""T""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+DIAMONDX	NE	1	"[""NE""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+PHI_ROUND_MIDDLE	A	1	"[""A""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+SIGMA_CURL	QUE	1	"[""QUE""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+RHO		1	"["""",""PAR""]"	open_alternatives	Multiple contextual readings remain possible; listed proposals are not exhaustive or authenticated.
+LOW_INWARD_ARCH	S	1	"[""S"",""""]"	open_alternatives	Multiple contextual readings remain possible; listed proposals are not exhaustive or authenticated.
+OVALSLASH	,	1	"["",""]"	empty_or_punctuation	The literal output is empty or punctuation; the historical function remains uncertain.
+THREEBAR_LEFT	J	1	"[""J""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+RECT_DOT	P	1	"[""P""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+SLOOP	DES	1	"[""DES"",""LES""]"	open_alternatives	Multiple contextual readings remain possible; listed proposals are not exhaustive or authenticated.
+OMEGA	G	1	"[""G""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+BRANCH3	X	1	"[""X""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+RECT_STEM_DOT		2	"[""""]"	empty_or_punctuation	The literal output is empty or punctuation; the historical function remains uncertain.
+PI_HOOK	V	1	"[""V""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+CIRCLE_TAIL	LA	1	"[""LA""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+ELBOW_CIRCLE	NE	1	"[""NE""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+X_LOOP	N	1	"[""N""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+DTRIDOT	T	1	"[""T""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.
+CIRCLE_VBAR	PAS	1	"[""PAS""]"	contextual	Constrained by the proposed reading; not independently authenticated. Listed candidates are not an exhaustive historical vocabulary.

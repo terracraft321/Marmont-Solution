@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite this version of the Marmont solution package. AI assistance is credited in CREDITS.md."
+title: "Marmont Cipher: Final Solution and Glyph Package"
+version: "1.0.0"
+date-released: "2026-03-10"
+type: dataset
+authors:
+abstract: "A reproducible proposed reading of the Marmont cipher: final transcription, working key, literal decoding, editorial French and English, glyphs, source evidence, and verification tools. AI assistance: GPT-6 Astra and Claude."
+keywords:
+  - historical cryptanalysis
+  - homophonic substitution
+  - Marmont
+  - reproducibility

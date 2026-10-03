@@ -1,0 +1,3625 @@
+{
+  "source_image": "sources/cipher_plate.png",
+  "source_image_sha256": "a6904e2929de0f302e607f4d77d9863a9e868a9d95acff129e0cd69fcc39b6f7",
+  "source_size_px": [
+    1051,
+    1246
+  ],
+  "coordinates": "top-left pixel origin; left/top inclusive, right/bottom exclusive",
+  "threshold": 225,
+  "threshold_operator": "<=",
+  "padding_px": 3,
+  "selections": [
+    {
+      "label": "!",
+      "source_unit": "r10:t05",
+      "file": "glyphs/exclamation_mark.png",
+      "raw_file": "glyphs/exclamation_mark.raw.png",
+      "source_box_ltrb": [
+        157,
+        522,
+        161,
+        547
+      ],
+      "context_file": "glyphs/contexts/exclamation_mark.png",
+      "context_box_ltrb": [
+        138,
+        503,
+        175,
+        572
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "+",
+      "source_unit": "r15:t43",
+      "file": "glyphs/plus_sign.png",
+      "raw_file": "glyphs/plus_sign.raw.png",
+      "source_box_ltrb": [
+        848,
+        757,
+        864,
+        770
+      ],
+      "context_file": "glyphs/contexts/plus_sign.png",
+      "context_box_ltrb": [
+        834,
+        730,
+        880,
+        799
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "12",
+      "source_unit": "r16:t39",
+      "file": "glyphs/12.png",
+      "raw_file": "glyphs/12.raw.png",
+      "source_box_ltrb": [
+        710,
+        803,
+        725,
+        816
+      ],
+      "context_file": "glyphs/contexts/12.png",
+      "context_box_ltrb": [
+        698,
+        778,
+        738,
+        847
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "15",
+      "source_unit": "r08:t43",
+      "file": "glyphs/15.png",
+      "raw_file": "glyphs/15.raw.png",
+      "source_box_ltrb": [
+        818,
+        436,
+        833,
+        456
+      ],
+      "context_file": "glyphs/contexts/15.png",
+      "context_box_ltrb": [
+        810,
+        410,
+        850,
+        479
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "17",
+      "source_unit": "r24:t25",
+      "file": "glyphs/17.png",
+      "raw_file": "glyphs/17.raw.png",
+      "source_box_ltrb": [
+        511,
+        1175,
+        529,
+        1191
+      ],
+      "context_file": "glyphs/contexts/17.png",
+      "context_box_ltrb": [
+        504,
+        1147,
+        543,
+        1216
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "2",
+      "source_unit": "r02:t26",
+      "file": "glyphs/2.png",
+      "raw_file": "glyphs/2.raw.png",
+      "source_box_ltrb": [
+        496,
+        159,
+        507,
+        170
+      ],
+      "context_file": "glyphs/contexts/2.png",
+      "context_box_ltrb": [
+        482,
+        121,
+        525,
+        190
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "20",
+      "source_unit": "r04:t24",
+      "file": "glyphs/20.png",
+      "raw_file": "glyphs/20.raw.png",
+      "source_box_ltrb": [
+        496,
+        251,
+        513,
+        263
+      ],
+      "context_file": "glyphs/contexts/20.png",
+      "context_box_ltrb": [
+        480,
+        218,
+        520,
+        287
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "22",
+      "source_unit": "r15:t02",
+      "file": "glyphs/22.png",
+      "raw_file": "glyphs/22.raw.png",
+      "source_box_ltrb": [
+        87,
+        759,
+        106,
+        772
+      ],
+      "context_file": "glyphs/contexts/22.png",
+      "context_box_ltrb": [
+        74,
+        730,
+        120,
+        799
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "26",
+      "source_unit": "r11:t45",
+      "file": "glyphs/26.png",
+      "raw_file": "glyphs/26.raw.png",
+      "source_box_ltrb": [
+        857,
+        577,
+        878,
+        593
+      ],
+      "context_file": "glyphs/contexts/26.png",
+      "context_box_ltrb": [
+        835,
+        547,
+        881,
+        616
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "27",
+      "source_unit": "r24:t32",
+      "file": "glyphs/27.png",
+      "raw_file": "glyphs/27.raw.png",
+      "source_box_ltrb": [
+        642,
+        1170,
+        662,
+        1192
+      ],
+      "context_file": "glyphs/contexts/27.png",
+      "context_box_ltrb": [
+        629,
+        1147,
+        670,
+        1216
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "31",
+      "source_unit": "r19:t03",
+      "file": "glyphs/31.png",
+      "raw_file": "glyphs/31.raw.png",
+      "source_box_ltrb": [
+        116,
+        955,
+        130,
+        971
+      ],
+      "context_file": "glyphs/contexts/31.png",
+      "context_box_ltrb": [
+        100,
+        923,
+        143,
+        992
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "33",
+      "source_unit": "r18:t17",
+      "file": "glyphs/33.png",
+      "raw_file": "glyphs/33.raw.png",
+      "source_box_ltrb": [
+        377,
+        899,
+        393,
+        915
+      ],
+      "context_file": "glyphs/contexts/33.png",
+      "context_box_ltrb": [
+        356,
+        873,
+        404,
+        942
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "35",
+      "source_unit": "r04:t06",
+      "file": "glyphs/35.png",
+      "raw_file": "glyphs/35.raw.png",
+      "source_box_ltrb": [
+        172,
+        250,
+        189,
+        265
+      ],
+      "context_file": "glyphs/contexts/35.png",
+      "context_box_ltrb": [
+        158,
+        218,
+        201,
+        287
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "42",
+      "source_unit": "r17:t19",
+      "file": "glyphs/42.png",
+      "raw_file": "glyphs/42.raw.png",
+      "source_box_ltrb": [
+        380,
+        848,
+        398,
+        865
+      ],
+      "context_file": "glyphs/contexts/42.png",
+      "context_box_ltrb": [
+        365,
+        826,
+        408,
+        895
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "47",
+      "source_unit": "r04:t02",
+      "file": "glyphs/47.png",
+      "raw_file": "glyphs/47.raw.png",
+      "source_box_ltrb": [
+        97,
+        243,
+        115,
+        263
+      ],
+      "context_file": "glyphs/contexts/47.png",
+      "context_box_ltrb": [
+        83,
+        218,
+        127,
+        287
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "55",
+      "source_unit": "r04:t21",
+      "file": "glyphs/55.png",
+      "raw_file": "glyphs/55.raw.png",
+      "source_box_ltrb": [
+        441,
+        251,
+        459,
+        263
+      ],
+      "context_file": "glyphs/contexts/55.png",
+      "context_box_ltrb": [
+        427,
+        218,
+        468,
+        287
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "59",
+      "source_unit": "r11:t36",
+      "file": "glyphs/59.png",
+      "raw_file": "glyphs/59.raw.png",
+      "source_box_ltrb": [
+        682,
+        579,
+        699,
+        596
+      ],
+      "context_file": "glyphs/contexts/59.png",
+      "context_box_ltrb": [
+        665,
+        547,
+        708,
+        616
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "64",
+      "source_unit": "r16:t19",
+      "file": "glyphs/64.png",
+      "raw_file": "glyphs/64.raw.png",
+      "source_box_ltrb": [
+        374,
+        800,
+        391,
+        814
+      ],
+      "context_file": "glyphs/contexts/64.png",
+      "context_box_ltrb": [
+        364,
+        778,
+        404,
+        847
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "65",
+      "source_unit": "r17:t04",
+      "file": "glyphs/65.png",
+      "raw_file": "glyphs/65.raw.png",
+      "source_box_ltrb": [
+        132,
+        847,
+        149,
+        862
+      ],
+      "context_file": "glyphs/contexts/65.png",
+      "context_box_ltrb": [
+        122,
+        826,
+        161,
+        895
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "68",
+      "source_unit": "r11:t02",
+      "file": "glyphs/68.png",
+      "raw_file": "glyphs/68.raw.png",
+      "source_box_ltrb": [
+        97,
+        576,
+        117,
+        592
+      ],
+      "context_file": "glyphs/contexts/68.png",
+      "context_box_ltrb": [
+        81,
+        547,
+        126,
+        616
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "69",
+      "source_unit": "r03:t40",
+      "file": "glyphs/69.png",
+      "raw_file": "glyphs/69.raw.png",
+      "source_box_ltrb": [
+        785,
+        197,
+        809,
+        217
+      ],
+      "context_file": "glyphs/contexts/69.png",
+      "context_box_ltrb": [
+        767,
+        168,
+        812,
+        237
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "73",
+      "source_unit": "r18:t16",
+      "file": "glyphs/73.png",
+      "raw_file": "glyphs/73.raw.png",
+      "source_box_ltrb": [
+        349,
+        898,
+        368,
+        916
+      ],
+      "context_file": "glyphs/contexts/73.png",
+      "context_box_ltrb": [
+        333,
+        873,
+        379,
+        942
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "76",
+      "source_unit": "r15:t03",
+      "file": "glyphs/76.png",
+      "raw_file": "glyphs/76.raw.png",
+      "source_box_ltrb": [
+        113,
+        760,
+        130,
+        770
+      ],
+      "context_file": "glyphs/contexts/76.png",
+      "context_box_ltrb": [
+        97,
+        730,
+        147,
+        799
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "79",
+      "source_unit": "r10:t36",
+      "file": "glyphs/79.png",
+      "raw_file": "glyphs/79.raw.png",
+      "source_box_ltrb": [
+        695,
+        537,
+        715,
+        555
+      ],
+      "context_file": "glyphs/contexts/79.png",
+      "context_box_ltrb": [
+        684,
+        503,
+        727,
+        572
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "81",
+      "source_unit": "r21:t36",
+      "file": "glyphs/81.png",
+      "raw_file": "glyphs/81.raw.png",
+      "source_box_ltrb": [
+        669,
+        1045,
+        682,
+        1059
+      ],
+      "context_file": "glyphs/contexts/81.png",
+      "context_box_ltrb": [
+        656,
+        1021,
+        695,
+        1090
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "82",
+      "source_unit": "r24:t30",
+      "file": "glyphs/82.png",
+      "raw_file": "glyphs/82.raw.png",
+      "source_box_ltrb": [
+        599,
+        1170,
+        616,
+        1183
+      ],
+      "context_file": "glyphs/contexts/82.png",
+      "context_box_ltrb": [
+        585,
+        1147,
+        630,
+        1216
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "96",
+      "source_unit": "r17:t12",
+      "file": "glyphs/96.png",
+      "raw_file": "glyphs/96.raw.png",
+      "source_box_ltrb": [
+        257,
+        852,
+        279,
+        866
+      ],
+      "context_file": "glyphs/contexts/96.png",
+      "context_box_ltrb": [
+        243,
+        826,
+        285,
+        895
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": ":",
+      "source_unit": "r19:t44",
+      "file": "glyphs/colon.png",
+      "raw_file": "glyphs/colon.raw.png",
+      "source_box_ltrb": [
+        885,
+        951,
+        890,
+        966
+      ],
+      "context_file": "glyphs/contexts/colon.png",
+      "context_box_ltrb": [
+        870,
+        923,
+        906,
+        992
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "?",
+      "source_unit": "r07:t11",
+      "file": "glyphs/question_mark.png",
+      "raw_file": "glyphs/question_mark.raw.png",
+      "source_box_ltrb": [
+        234,
+        388,
+        240,
+        407
+      ],
+      "context_file": "glyphs/contexts/question_mark.png",
+      "context_box_ltrb": [
+        216,
+        361,
+        257,
+        430
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "A",
+      "source_unit": "r14:t29",
+      "file": "glyphs/A.png",
+      "raw_file": "glyphs/A.raw.png",
+      "source_box_ltrb": [
+        639,
+        704,
+        658,
+        723
+      ],
+      "context_file": "glyphs/contexts/A.png",
+      "context_box_ltrb": [
+        625,
+        682,
+        668,
+        751
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "ARCH_COMPOUND",
+      "source_unit": "r04:t19",
+      "file": "glyphs/ARCH_COMPOUND.png",
+      "raw_file": "glyphs/ARCH_COMPOUND.raw.png",
+      "source_box_ltrb": [
+        403,
+        244,
+        417,
+        263
+      ],
+      "context_file": "glyphs/contexts/ARCH_COMPOUND.png",
+      "context_box_ltrb": [
+        381,
+        218,
+        431,
+        287
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "FAINT_COMPOUND",
+      "note": "The compound left-hand stroke is faint. It is retained at the global threshold; no missing connection is supplied.",
+      "defect_sites": []
+    },
+    {
+      "label": "ARCH_COMPOUND_TALL",
+      "source_unit": "r07:t43",
+      "file": "glyphs/ARCH_COMPOUND_TALL.png",
+      "raw_file": "glyphs/ARCH_COMPOUND_TALL.raw.png",
+      "source_box_ltrb": [
+        787,
+        378,
+        818,
+        408
+      ],
+      "context_file": "glyphs/contexts/ARCH_COMPOUND_TALL.png",
+      "context_box_ltrb": [
+        775,
+        361,
+        821,
+        430
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "BOUNDARY_UNCLEAR",
+      "note": "Only occurrence. The right edge of the compound arch approaches the following ink; no inferred closing contour is supplied.",
+      "defect_sites": []
+    },
+    {
+      "label": "BANG_CURLED",
+      "source_unit": "r10:t34",
+      "file": "glyphs/BANG_CURLED.png",
+      "raw_file": "glyphs/BANG_CURLED.raw.png",
+      "source_box_ltrb": [
+        669,
+        524,
+        674,
+        548
+      ],
+      "context_file": "glyphs/contexts/BANG_CURLED.png",
+      "context_box_ltrb": [
+        649,
+        503,
+        688,
+        572
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "BENTL",
+      "source_unit": "r09:t12",
+      "file": "glyphs/BENTL.png",
+      "raw_file": "glyphs/BENTL.raw.png",
+      "source_box_ltrb": [
+        273,
+        481,
+        285,
+        499
+      ],
+      "context_file": "glyphs/contexts/BENTL.png",
+      "context_box_ltrb": [
+        258,
+        455,
+        297,
+        524
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "BOWTIE",
+      "source_unit": "r24:t13",
+      "file": "glyphs/BOWTIE.png",
+      "raw_file": "glyphs/BOWTIE.raw.png",
+      "source_box_ltrb": [
+        296,
+        1173,
+        316,
+        1190
+      ],
+      "context_file": "glyphs/contexts/BOWTIE.png",
+      "context_box_ltrb": [
+        281,
+        1147,
+        326,
+        1216
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "BOWTIE_BOTTOM_FORM",
+      "source_unit": "r01:t31",
+      "file": "glyphs/BOWTIE_BOTTOM_FORM.png",
+      "raw_file": "glyphs/BOWTIE_BOTTOM_FORM.raw.png",
+      "source_box_ltrb": [
+        607,
+        114,
+        626,
+        123
+      ],
+      "context_file": "glyphs/contexts/BOWTIE_BOTTOM_FORM.png",
+      "context_box_ltrb": [
+        590,
+        72,
+        637,
+        141
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "BOX_STEM_DOT",
+      "source_unit": "r01:t49",
+      "file": "glyphs/BOX_STEM_DOT.png",
+      "raw_file": "glyphs/BOX_STEM_DOT.raw.png",
+      "source_box_ltrb": [
+        950,
+        97,
+        965,
+        116
+      ],
+      "context_file": "glyphs/contexts/BOX_STEM_DOT.png",
+      "context_box_ltrb": [
+        931,
+        72,
+        977,
+        141
+      ],
+      "excluded_rectangles_ltrb": [
+        [
+          950,
+          97,
+          956,
+          103
+        ]
+      ],
+      "flag": "",
+      "note": "A rectangular corner exclusion removes the adjacent overhead-tick tip; the glyph stem and box are retained.",
+      "defect_sites": []
+    },
+    {
+      "label": "BRANCH3",
+      "source_unit": "r20:t34",
+      "file": "glyphs/BRANCH3.png",
+      "raw_file": "glyphs/BRANCH3.raw.png",
+      "source_box_ltrb": [
+        681,
+        1001,
+        696,
+        1016
+      ],
+      "context_file": "glyphs/contexts/BRANCH3.png",
+      "context_box_ltrb": [
+        664,
+        974,
+        710,
+        1043
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "BRIDGE",
+      "source_unit": "r13:t27",
+      "file": "glyphs/BRIDGE.png",
+      "raw_file": "glyphs/BRIDGE.raw.png",
+      "source_box_ltrb": [
+        526,
+        662,
+        547,
+        682
+      ],
+      "context_file": "glyphs/contexts/BRIDGE.png",
+      "context_box_ltrb": [
+        512,
+        639,
+        556,
+        708
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "CIRCLE_CROSS",
+      "source_unit": "r12:t23",
+      "file": "glyphs/CIRCLE_CROSS.png",
+      "raw_file": "glyphs/CIRCLE_CROSS.raw.png",
+      "source_box_ltrb": [
+        475,
+        627,
+        490,
+        639
+      ],
+      "context_file": "glyphs/contexts/CIRCLE_CROSS.png",
+      "context_box_ltrb": [
+        463,
+        595,
+        505,
+        664
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "CIRCLE_TAIL",
+      "source_unit": "r21:t49",
+      "file": "glyphs/CIRCLE_TAIL.png",
+      "raw_file": "glyphs/CIRCLE_TAIL.raw.png",
+      "source_box_ltrb": [
+        929,
+        1045,
+        945,
+        1076
+      ],
+      "context_file": "glyphs/contexts/CIRCLE_TAIL.png",
+      "context_box_ltrb": [
+        913,
+        1021,
+        958,
+        1090
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "CIRCLE_VBAR",
+      "source_unit": "r23:t56",
+      "file": "glyphs/CIRCLE_VBAR.png",
+      "raw_file": "glyphs/CIRCLE_VBAR.raw.png",
+      "source_box_ltrb": [
+        1013,
+        1110,
+        1031,
+        1148
+      ],
+      "context_file": "glyphs/contexts/CIRCLE_VBAR.png",
+      "context_box_ltrb": [
+        1004,
+        1104,
+        1051,
+        1173
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "HEAVY_INK;OVERSTROKE_BOUNDARY_UNCLEAR",
+      "note": "Only occurrence; the circular body is heavily inked and the long upright cannot be separated confidently from a possible overhead extension.",
+      "defect_sites": []
+    },
+    {
+      "label": "CROSSED_CURL",
+      "source_unit": "r17:t21",
+      "file": "glyphs/CROSSED_CURL.png",
+      "raw_file": "glyphs/CROSSED_CURL.raw.png",
+      "source_box_ltrb": [
+        417,
+        851,
+        437,
+        865
+      ],
+      "context_file": "glyphs/contexts/CROSSED_CURL.png",
+      "context_box_ltrb": [
+        405,
+        826,
+        448,
+        895
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "CROSSED_DOUBLE_LOOP",
+      "source_unit": "r04:t41",
+      "file": "glyphs/CROSSED_DOUBLE_LOOP.png",
+      "raw_file": "glyphs/CROSSED_DOUBLE_LOOP.raw.png",
+      "source_box_ltrb": [
+        795,
+        241,
+        820,
+        272
+      ],
+      "context_file": "glyphs/contexts/CROSSED_DOUBLE_LOOP.png",
+      "context_box_ltrb": [
+        781,
+        218,
+        827,
+        287
+      ],
+      "excluded_rectangles_ltrb": [
+        [
+          795,
+          266,
+          804,
+          272
+        ]
+      ],
+      "flag": "",
+      "note": "A lower-left corner exclusion removes separate next-row ink, retaining the descending right loop.",
+      "defect_sites": []
+    },
+    {
+      "label": "CROSSHATCH",
+      "source_unit": "r15:t29",
+      "file": "glyphs/CROSSHATCH.png",
+      "raw_file": "glyphs/CROSSHATCH.raw.png",
+      "source_box_ltrb": [
+        592,
+        757,
+        611,
+        778
+      ],
+      "context_file": "glyphs/contexts/CROSSHATCH.png",
+      "context_box_ltrb": [
+        574,
+        730,
+        624,
+        799
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "CURLD",
+      "source_unit": "r05:t31",
+      "file": "glyphs/CURLD.png",
+      "raw_file": "glyphs/CURLD.raw.png",
+      "source_box_ltrb": [
+        572,
+        287,
+        583,
+        309
+      ],
+      "context_file": "glyphs/contexts/CURLD.png",
+      "context_box_ltrb": [
+        557,
+        264,
+        595,
+        333
+      ],
+      "excluded_rectangles_ltrb": [
+        [
+          568,
+          296,
+          574,
+          309
+        ]
+      ],
+      "flag": "",
+      "note": "A rectangular lower-left exclusion removes the separate preceding numeral stroke; the complete curved glyph is preserved.",
+      "defect_sites": []
+    },
+    {
+      "label": "DBLCROSS",
+      "source_unit": "r22:t10",
+      "file": "glyphs/DBLCROSS.png",
+      "raw_file": "glyphs/DBLCROSS.raw.png",
+      "source_box_ltrb": [
+        208,
+        1078,
+        219,
+        1104
+      ],
+      "context_file": "glyphs/contexts/DBLCROSS.png",
+      "context_box_ltrb": [
+        194,
+        1063,
+        232,
+        1132
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "DIAG_OPPOSED_TRIANGLES",
+      "source_unit": "r01:t18",
+      "file": "glyphs/DIAG_OPPOSED_TRIANGLES.png",
+      "raw_file": "glyphs/DIAG_OPPOSED_TRIANGLES.raw.png",
+      "source_box_ltrb": [
+        361,
+        113,
+        385,
+        135
+      ],
+      "context_file": "glyphs/contexts/DIAG_OPPOSED_TRIANGLES.png",
+      "context_box_ltrb": [
+        355,
+        72,
+        400,
+        141
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "DIAMONDCROSS",
+      "source_unit": "r08:t51",
+      "file": "glyphs/DIAMONDCROSS.png",
+      "raw_file": "glyphs/DIAMONDCROSS.raw.png",
+      "source_box_ltrb": [
+        968,
+        430,
+        988,
+        464
+      ],
+      "context_file": "glyphs/contexts/DIAMONDCROSS.png",
+      "context_box_ltrb": [
+        955,
+        410,
+        1007,
+        479
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "DIAMONDX",
+      "source_unit": "r15:t17",
+      "file": "glyphs/DIAMONDX.png",
+      "raw_file": "glyphs/DIAMONDX.raw.png",
+      "source_box_ltrb": [
+        363,
+        759,
+        372,
+        778
+      ],
+      "context_file": "glyphs/contexts/DIAMONDX.png",
+      "context_box_ltrb": [
+        346,
+        730,
+        386,
+        799
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "DIV",
+      "source_unit": "r03:t25",
+      "file": "glyphs/DIV.png",
+      "raw_file": "glyphs/DIV.raw.png",
+      "source_box_ltrb": [
+        496,
+        204,
+        508,
+        215
+      ],
+      "context_file": "glyphs/contexts/DIV.png",
+      "context_box_ltrb": [
+        481,
+        168,
+        521,
+        237
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "DIVBAR",
+      "source_unit": "r23:t25",
+      "file": "glyphs/DIVBAR.png",
+      "raw_file": "glyphs/DIVBAR.raw.png",
+      "source_box_ltrb": [
+        478,
+        1130,
+        493,
+        1144
+      ],
+      "context_file": "glyphs/contexts/DIVBAR.png",
+      "context_box_ltrb": [
+        471,
+        1104,
+        512,
+        1173
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "DOTTEDBOX3",
+      "source_unit": "r11:t38",
+      "file": "glyphs/DOTTEDBOX3.png",
+      "raw_file": "glyphs/DOTTEDBOX3.raw.png",
+      "source_box_ltrb": [
+        717,
+        582,
+        735,
+        594
+      ],
+      "context_file": "glyphs/contexts/DOTTEDBOX3.png",
+      "context_box_ltrb": [
+        707,
+        547,
+        753,
+        616
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "DOUBLEX",
+      "source_unit": "r14:t30",
+      "file": "glyphs/DOUBLEX.png",
+      "raw_file": "glyphs/DOUBLEX.raw.png",
+      "source_box_ltrb": [
+        664,
+        707,
+        681,
+        723
+      ],
+      "context_file": "glyphs/contexts/DOUBLEX.png",
+      "context_box_ltrb": [
+        645,
+        682,
+        690,
+        751
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "DOWNDOUBLE",
+      "source_unit": "r07:t42",
+      "file": "glyphs/DOWNDOUBLE.png",
+      "raw_file": "glyphs/DOWNDOUBLE.raw.png",
+      "source_box_ltrb": [
+        764,
+        392,
+        782,
+        405
+      ],
+      "context_file": "glyphs/contexts/DOWNDOUBLE.png",
+      "context_box_ltrb": [
+        749,
+        361,
+        798,
+        430
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "DTRI",
+      "source_unit": "r09:t52",
+      "file": "glyphs/DTRI.png",
+      "raw_file": "glyphs/DTRI.raw.png",
+      "source_box_ltrb": [
+        985,
+        485,
+        1000,
+        498
+      ],
+      "context_file": "glyphs/contexts/DTRI.png",
+      "context_box_ltrb": [
+        972,
+        455,
+        1014,
+        524
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "DTRIDOT",
+      "source_unit": "r23:t55",
+      "file": "glyphs/DTRIDOT.png",
+      "raw_file": "glyphs/DTRIDOT.raw.png",
+      "source_box_ltrb": [
+        999,
+        1125,
+        1015,
+        1138
+      ],
+      "context_file": "glyphs/contexts/DTRIDOT.png",
+      "context_box_ltrb": [
+        988,
+        1104,
+        1027,
+        1173
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "E",
+      "source_unit": "r11:t13",
+      "file": "glyphs/E.png",
+      "raw_file": "glyphs/E.raw.png",
+      "source_box_ltrb": [
+        270,
+        583,
+        281,
+        595
+      ],
+      "context_file": "glyphs/contexts/E.png",
+      "context_box_ltrb": [
+        260,
+        547,
+        297,
+        616
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "ELBOW_CIRCLE",
+      "source_unit": "r22:t21",
+      "file": "glyphs/ELBOW_CIRCLE.png",
+      "raw_file": "glyphs/ELBOW_CIRCLE.raw.png",
+      "source_box_ltrb": [
+        376,
+        1082,
+        402,
+        1099
+      ],
+      "context_file": "glyphs/contexts/ELBOW_CIRCLE.png",
+      "context_box_ltrb": [
+        371,
+        1063,
+        417,
+        1132
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "E_NARROW",
+      "source_unit": "r15:t01",
+      "file": "glyphs/E_NARROW.png",
+      "raw_file": "glyphs/E_NARROW.raw.png",
+      "source_box_ltrb": [
+        76,
+        759,
+        83,
+        773
+      ],
+      "context_file": "glyphs/contexts/E_NARROW.png",
+      "context_box_ltrb": [
+        49,
+        730,
+        97,
+        799
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "FANCY_W",
+      "source_unit": "r04:t39",
+      "file": "glyphs/FANCY_W.png",
+      "raw_file": "glyphs/FANCY_W.raw.png",
+      "source_box_ltrb": [
+        759,
+        242,
+        775,
+        262
+      ],
+      "context_file": "glyphs/contexts/FANCY_W.png",
+      "context_box_ltrb": [
+        742,
+        218,
+        785,
+        287
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "FORKED_HOOK",
+      "source_unit": "r02:t31",
+      "file": "glyphs/FORKED_HOOK.png",
+      "raw_file": "glyphs/FORKED_HOOK.raw.png",
+      "source_box_ltrb": [
+        597,
+        154,
+        608,
+        169
+      ],
+      "context_file": "glyphs/contexts/FORKED_HOOK.png",
+      "context_box_ltrb": [
+        577,
+        121,
+        619,
+        190
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "FOURSTACK",
+      "source_unit": "r07:t52",
+      "file": "glyphs/FOURSTACK.png",
+      "raw_file": "glyphs/FOURSTACK.raw.png",
+      "source_box_ltrb": [
+        959,
+        384,
+        973,
+        412
+      ],
+      "context_file": "glyphs/contexts/FOURSTACK.png",
+      "context_box_ltrb": [
+        947,
+        361,
+        987,
+        430
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "FOUR_DOTS",
+      "source_unit": "r10:t53",
+      "file": "glyphs/FOUR_DOTS.png",
+      "raw_file": "glyphs/FOUR_DOTS.raw.png",
+      "source_box_ltrb": [
+        1021,
+        537,
+        1043,
+        553
+      ],
+      "context_file": "glyphs/contexts/FOUR_DOTS.png",
+      "context_box_ltrb": [
+        1018,
+        503,
+        1051,
+        572
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "The four separated dots are retained from the native source plate without reconstruction.",
+      "defect_sites": []
+    },
+    {
+      "label": "GLASSES_CROSS",
+      "source_unit": "r10:t10",
+      "file": "glyphs/GLASSES_CROSS.png",
+      "raw_file": "glyphs/GLASSES_CROSS.raw.png",
+      "source_box_ltrb": [
+        229,
+        536,
+        255,
+        547
+      ],
+      "context_file": "glyphs/contexts/GLASSES_CROSS.png",
+      "context_box_ltrb": [
+        213,
+        503,
+        262,
+        572
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "H",
+      "source_unit": "r07:t51",
+      "file": "glyphs/H.png",
+      "raw_file": "glyphs/H.raw.png",
+      "source_box_ltrb": [
+        944,
+        381,
+        955,
+        412
+      ],
+      "context_file": "glyphs/contexts/H.png",
+      "context_box_ltrb": [
+        932,
+        361,
+        970,
+        430
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "HEART",
+      "source_unit": "r24:t44",
+      "file": "glyphs/HEART.png",
+      "raw_file": "glyphs/HEART.raw.png",
+      "source_box_ltrb": [
+        860,
+        1162,
+        880,
+        1182
+      ],
+      "context_file": "glyphs/contexts/HEART.png",
+      "context_box_ltrb": [
+        852,
+        1147,
+        895,
+        1216
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "IDOUBLE",
+      "source_unit": "r01:t53",
+      "file": "glyphs/IDOUBLE.png",
+      "raw_file": "glyphs/IDOUBLE.raw.png",
+      "source_box_ltrb": [
+        1025,
+        99,
+        1040,
+        115
+      ],
+      "context_file": "glyphs/contexts/IDOUBLE.png",
+      "context_box_ltrb": [
+        1013,
+        72,
+        1051,
+        141
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "FAINT_SINGLETON",
+      "note": "The only occurrence has a weak left upright; all surviving source pixels are retained at the common threshold.",
+      "defect_sites": []
+    },
+    {
+      "label": "JCROSS",
+      "source_unit": "r15:t46",
+      "file": "glyphs/JCROSS.png",
+      "raw_file": "glyphs/JCROSS.raw.png",
+      "source_box_ltrb": [
+        903,
+        749,
+        917,
+        772
+      ],
+      "context_file": "glyphs/contexts/JCROSS.png",
+      "context_box_ltrb": [
+        892,
+        730,
+        932,
+        799
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "JE_MONOGRAM",
+      "source_unit": "r17:t01",
+      "file": "glyphs/JE_MONOGRAM.png",
+      "raw_file": "glyphs/JE_MONOGRAM.raw.png",
+      "source_box_ltrb": [
+        71,
+        835,
+        102,
+        863
+      ],
+      "context_file": "glyphs/contexts/JE_MONOGRAM.png",
+      "context_box_ltrb": [
+        57,
+        826,
+        108,
+        895
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "LAMBDA",
+      "source_unit": "r13:t44",
+      "file": "glyphs/LAMBDA.png",
+      "raw_file": "glyphs/LAMBDA.raw.png",
+      "source_box_ltrb": [
+        842,
+        662,
+        859,
+        678
+      ],
+      "context_file": "glyphs/contexts/LAMBDA.png",
+      "context_box_ltrb": [
+        827,
+        639,
+        871,
+        708
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "LOOP8",
+      "source_unit": "r15:t09",
+      "file": "glyphs/LOOP8.png",
+      "raw_file": "glyphs/LOOP8.raw.png",
+      "source_box_ltrb": [
+        225,
+        746,
+        240,
+        770
+      ],
+      "context_file": "glyphs/contexts/LOOP8.png",
+      "context_box_ltrb": [
+        212,
+        730,
+        253,
+        799
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "LOOP8_CLOSED",
+      "source_unit": "r18:t23",
+      "file": "glyphs/LOOP8_CLOSED.png",
+      "raw_file": "glyphs/LOOP8_CLOSED.raw.png",
+      "source_box_ltrb": [
+        486,
+        895,
+        494,
+        917
+      ],
+      "context_file": "glyphs/contexts/LOOP8_CLOSED.png",
+      "context_box_ltrb": [
+        473,
+        873,
+        514,
+        942
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "LOOPX",
+      "source_unit": "r19:t19",
+      "file": "glyphs/LOOPX.png",
+      "raw_file": "glyphs/LOOPX.raw.png",
+      "source_box_ltrb": [
+        406,
+        952,
+        426,
+        971
+      ],
+      "context_file": "glyphs/contexts/LOOPX.png",
+      "context_box_ltrb": [
+        394,
+        923,
+        437,
+        992
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "LOW_INWARD_ARCH",
+      "source_unit": "r16:t56",
+      "file": "glyphs/LOW_INWARD_ARCH.png",
+      "raw_file": "glyphs/LOW_INWARD_ARCH.raw.png",
+      "source_box_ltrb": [
+        1004,
+        779,
+        1033,
+        820
+      ],
+      "context_file": "glyphs/contexts/LOW_INWARD_ARCH.png",
+      "context_box_ltrb": [
+        998,
+        776,
+        1051,
+        847
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "OVERSTROKE_BOUNDARY_UNCLEAR",
+      "note": "The overhead stroke touches the sole large arch form. The connected top stroke is retained because a cut would require deciding where the sign begins.",
+      "defect_sites": []
+    },
+    {
+      "label": "LT",
+      "source_unit": "r19:t29",
+      "file": "glyphs/LT.png",
+      "raw_file": "glyphs/LT.raw.png",
+      "source_box_ltrb": [
+        613,
+        954,
+        629,
+        967
+      ],
+      "context_file": "glyphs/contexts/LT.png",
+      "context_box_ltrb": [
+        598,
+        923,
+        639,
+        992
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "MIRRORP",
+      "source_unit": "r06:t33",
+      "file": "glyphs/MIRRORP.png",
+      "raw_file": "glyphs/MIRRORP.raw.png",
+      "source_box_ltrb": [
+        623,
+        339,
+        642,
+        359
+      ],
+      "context_file": "glyphs/contexts/MIRRORP.png",
+      "context_box_ltrb": [
+        610,
+        312,
+        653,
+        381
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "MU",
+      "source_unit": "r17:t30",
+      "file": "glyphs/MU.png",
+      "raw_file": "glyphs/MU.raw.png",
+      "source_box_ltrb": [
+        565,
+        854,
+        579,
+        875
+      ],
+      "context_file": "glyphs/contexts/MU.png",
+      "context_box_ltrb": [
+        552,
+        826,
+        590,
+        895
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "OMEGA",
+      "source_unit": "r20:t16",
+      "file": "glyphs/OMEGA.png",
+      "raw_file": "glyphs/OMEGA.raw.png",
+      "source_box_ltrb": [
+        347,
+        1004,
+        373,
+        1022
+      ],
+      "context_file": "glyphs/contexts/OMEGA.png",
+      "context_box_ltrb": [
+        335,
+        974,
+        377,
+        1043
+      ],
+      "excluded_rectangles_ltrb": [
+        [
+          347,
+          1003,
+          356,
+          1009
+        ]
+      ],
+      "flag": "",
+      "note": "An upper-left corner exclusion removes the detached overhead-tick tip; both lower bowls and the upper arc are retained.",
+      "defect_sites": []
+    },
+    {
+      "label": "OMEGASTEM",
+      "source_unit": "r14:t40",
+      "file": "glyphs/OMEGASTEM.png",
+      "raw_file": "glyphs/OMEGASTEM.raw.png",
+      "source_box_ltrb": [
+        826,
+        701,
+        842,
+        720
+      ],
+      "context_file": "glyphs/contexts/OMEGASTEM.png",
+      "context_box_ltrb": [
+        814,
+        682,
+        855,
+        751
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "OPEN_CUP",
+      "source_unit": "r18:t48",
+      "file": "glyphs/OPEN_CUP.png",
+      "raw_file": "glyphs/OPEN_CUP.raw.png",
+      "source_box_ltrb": [
+        917,
+        902,
+        929,
+        914
+      ],
+      "context_file": "glyphs/contexts/OPEN_CUP.png",
+      "context_box_ltrb": [
+        902,
+        873,
+        940,
+        942
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "OPEN_DTRI",
+      "source_unit": "r23:t04",
+      "file": "glyphs/OPEN_DTRI.png",
+      "raw_file": "glyphs/OPEN_DTRI.raw.png",
+      "source_box_ltrb": [
+        125,
+        1134,
+        138,
+        1149
+      ],
+      "context_file": "glyphs/contexts/OPEN_DTRI.png",
+      "context_box_ltrb": [
+        109,
+        1104,
+        151,
+        1173
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "ORNATE_CROSSED_STEM",
+      "source_unit": "r02:t30",
+      "file": "glyphs/ORNATE_CROSSED_STEM.png",
+      "raw_file": "glyphs/ORNATE_CROSSED_STEM.raw.png",
+      "source_box_ltrb": [
+        573,
+        131,
+        593,
+        187
+      ],
+      "context_file": "glyphs/contexts/ORNATE_CROSSED_STEM.png",
+      "context_box_ltrb": [
+        559,
+        121,
+        600,
+        190
+      ],
+      "excluded_rectangles_ltrb": [
+        [
+          573,
+          182,
+          579,
+          187
+        ]
+      ],
+      "flag": "OVERSTROKE_BOUNDARY_UNCLEAR",
+      "note": "Only occurrence. A possible overhead stroke joins the tall form and is retained. A rectangular corner exclusion removes clearly separate ink from the following row without modifying the sign.",
+      "defect_sites": []
+    },
+    {
+      "label": "OVALSLASH",
+      "source_unit": "r17:t44",
+      "file": "glyphs/OVALSLASH.png",
+      "raw_file": "glyphs/OVALSLASH.raw.png",
+      "source_box_ltrb": [
+        798,
+        846,
+        818,
+        863
+      ],
+      "context_file": "glyphs/contexts/OVALSLASH.png",
+      "context_box_ltrb": [
+        782,
+        826,
+        827,
+        895
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "OVERLINEARC",
+      "source_unit": "r02:t47",
+      "file": "glyphs/OVERLINEARC.png",
+      "raw_file": "glyphs/OVERLINEARC.raw.png",
+      "source_box_ltrb": [
+        890,
+        154,
+        905,
+        166
+      ],
+      "context_file": "glyphs/contexts/OVERLINEARC.png",
+      "context_box_ltrb": [
+        873,
+        121,
+        916,
+        190
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "P",
+      "source_unit": "r04:t45",
+      "file": "glyphs/P.png",
+      "raw_file": "glyphs/P.raw.png",
+      "source_box_ltrb": [
+        875,
+        241,
+        888,
+        260
+      ],
+      "context_file": "glyphs/contexts/P.png",
+      "context_box_ltrb": [
+        855,
+        218,
+        897,
+        287
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "PARALLELOGRAM",
+      "source_unit": "r03:t34",
+      "file": "glyphs/PARALLELOGRAM.png",
+      "raw_file": "glyphs/PARALLELOGRAM.raw.png",
+      "source_box_ltrb": [
+        659,
+        197,
+        684,
+        216
+      ],
+      "context_file": "glyphs/contexts/PARALLELOGRAM.png",
+      "context_box_ltrb": [
+        644,
+        168,
+        688,
+        237
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "INCOMPLETE_FAINT_OUTLINE",
+      "note": "The only occurrence has a faint, incomplete outline. No connecting edge is supplied.",
+      "defect_sites": []
+    },
+    {
+      "label": "PHI",
+      "source_unit": "r13:t47",
+      "file": "glyphs/PHI.png",
+      "raw_file": "glyphs/PHI.raw.png",
+      "source_box_ltrb": [
+        896,
+        664,
+        905,
+        689
+      ],
+      "context_file": "glyphs/contexts/PHI.png",
+      "context_box_ltrb": [
+        883,
+        639,
+        921,
+        708
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "PHI_ROUND_MIDDLE",
+      "source_unit": "r15:t23",
+      "file": "glyphs/PHI_ROUND_MIDDLE.png",
+      "raw_file": "glyphs/PHI_ROUND_MIDDLE.raw.png",
+      "source_box_ltrb": [
+        473,
+        752,
+        486,
+        777
+      ],
+      "context_file": "glyphs/contexts/PHI_ROUND_MIDDLE.png",
+      "context_box_ltrb": [
+        450,
+        730,
+        496,
+        799
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "PI_HOOK",
+      "source_unit": "r21:t44",
+      "file": "glyphs/PI_HOOK.png",
+      "raw_file": "glyphs/PI_HOOK.raw.png",
+      "source_box_ltrb": [
+        823,
+        1047,
+        840,
+        1074
+      ],
+      "context_file": "glyphs/contexts/PI_HOOK.png",
+      "context_box_ltrb": [
+        806,
+        1021,
+        854,
+        1090
+      ],
+      "excluded_rectangles_ltrb": [
+        [
+          837,
+          1064,
+          840,
+          1074
+        ]
+      ],
+      "flag": "",
+      "note": "A lower-right corner exclusion removes the edge of the following sign.",
+      "defect_sites": []
+    },
+    {
+      "label": "PLUS4DOT",
+      "source_unit": "r02:t07",
+      "file": "glyphs/PLUS4DOT.png",
+      "raw_file": "glyphs/PLUS4DOT.raw.png",
+      "source_box_ltrb": [
+        182,
+        156,
+        194,
+        170
+      ],
+      "context_file": "glyphs/contexts/PLUS4DOT.png",
+      "context_box_ltrb": [
+        164,
+        121,
+        207,
+        190
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "PLUS_LEFT_DOTS",
+      "source_unit": "r21:t41",
+      "file": "glyphs/PLUS_LEFT_DOTS.png",
+      "raw_file": "glyphs/PLUS_LEFT_DOTS.raw.png",
+      "source_box_ltrb": [
+        758,
+        1043,
+        775,
+        1059
+      ],
+      "context_file": "glyphs/contexts/PLUS_LEFT_DOTS.png",
+      "context_box_ltrb": [
+        740,
+        1021,
+        785,
+        1090
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "Q",
+      "source_unit": "r04:t40",
+      "file": "glyphs/Q.png",
+      "raw_file": "glyphs/Q.raw.png",
+      "source_box_ltrb": [
+        778,
+        252,
+        795,
+        270
+      ],
+      "context_file": "glyphs/contexts/Q.png",
+      "context_box_ltrb": [
+        762,
+        218,
+        804,
+        287
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "RANGLE",
+      "source_unit": "r12:t38",
+      "file": "glyphs/RANGLE.png",
+      "raw_file": "glyphs/RANGLE.raw.png",
+      "source_box_ltrb": [
+        756,
+        623,
+        776,
+        634
+      ],
+      "context_file": "glyphs/contexts/RANGLE.png",
+      "context_box_ltrb": [
+        744,
+        595,
+        788,
+        664
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "RECT",
+      "source_unit": "r16:t27",
+      "file": "glyphs/RECT.png",
+      "raw_file": "glyphs/RECT.raw.png",
+      "source_box_ltrb": [
+        505,
+        804,
+        522,
+        817
+      ],
+      "context_file": "glyphs/contexts/RECT.png",
+      "context_box_ltrb": [
+        493,
+        778,
+        534,
+        847
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "RECTDOT",
+      "source_unit": "r05:t44",
+      "file": "glyphs/RECTDOT.png",
+      "raw_file": "glyphs/RECTDOT.raw.png",
+      "source_box_ltrb": [
+        798,
+        287,
+        813,
+        308
+      ],
+      "context_file": "glyphs/contexts/RECTDOT.png",
+      "context_box_ltrb": [
+        784,
+        264,
+        828,
+        333
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "RECTSTACK",
+      "source_unit": "r07:t13",
+      "file": "glyphs/RECTSTACK.png",
+      "raw_file": "glyphs/RECTSTACK.raw.png",
+      "source_box_ltrb": [
+        267,
+        391,
+        285,
+        410
+      ],
+      "context_file": "glyphs/contexts/RECTSTACK.png",
+      "context_box_ltrb": [
+        255,
+        361,
+        298,
+        430
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "RECT_B_COMPOUND",
+      "source_unit": "r23:t44",
+      "file": "glyphs/RECT_B_COMPOUND.png",
+      "raw_file": "glyphs/RECT_B_COMPOUND.raw.png",
+      "source_box_ltrb": [
+        805,
+        1119,
+        829,
+        1140
+      ],
+      "context_file": "glyphs/contexts/RECT_B_COMPOUND.png",
+      "context_box_ltrb": [
+        793,
+        1104,
+        839,
+        1173
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "RECT_DOT",
+      "source_unit": "r20:t01",
+      "file": "glyphs/RECT_DOT.png",
+      "raw_file": "glyphs/RECT_DOT.raw.png",
+      "source_box_ltrb": [
+        73,
+        1006,
+        96,
+        1024
+      ],
+      "context_file": "glyphs/contexts/RECT_DOT.png",
+      "context_box_ltrb": [
+        55,
+        974,
+        104,
+        1043
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "RECT_STEM_DOT",
+      "source_unit": "r20:t40",
+      "file": "glyphs/RECT_STEM_DOT.png",
+      "raw_file": "glyphs/RECT_STEM_DOT.raw.png",
+      "source_box_ltrb": [
+        775,
+        990,
+        789,
+        1016
+      ],
+      "context_file": "glyphs/contexts/RECT_STEM_DOT.png",
+      "context_box_ltrb": [
+        761,
+        974,
+        803,
+        1043
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "RHO",
+      "source_unit": "r16:t32",
+      "file": "glyphs/RHO.png",
+      "raw_file": "glyphs/RHO.raw.png",
+      "source_box_ltrb": [
+        586,
+        796,
+        608,
+        815
+      ],
+      "context_file": "glyphs/contexts/RHO.png",
+      "context_box_ltrb": [
+        572,
+        778,
+        620,
+        847
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "RHO_LOW",
+      "source_unit": "r15:t44",
+      "file": "glyphs/RHO_LOW.png",
+      "raw_file": "glyphs/RHO_LOW.raw.png",
+      "source_box_ltrb": [
+        870,
+        759,
+        884,
+        778
+      ],
+      "context_file": "glyphs/contexts/RHO_LOW.png",
+      "context_box_ltrb": [
+        857,
+        730,
+        898,
+        799
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "R_FORK",
+      "source_unit": "r17:t32",
+      "file": "glyphs/R_FORK.png",
+      "raw_file": "glyphs/R_FORK.raw.png",
+      "source_box_ltrb": [
+        600,
+        851,
+        612,
+        865
+      ],
+      "context_file": "glyphs/contexts/R_FORK.png",
+      "context_box_ltrb": [
+        586,
+        826,
+        627,
+        895
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "SEMICOLON",
+      "source_unit": "r02:t39",
+      "file": "glyphs/SEMICOLON.png",
+      "raw_file": "glyphs/SEMICOLON.raw.png",
+      "source_box_ltrb": [
+        750,
+        158,
+        753,
+        173
+      ],
+      "context_file": "glyphs/contexts/SEMICOLON.png",
+      "context_box_ltrb": [
+        728,
+        121,
+        768,
+        190
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "SHOOT",
+      "source_unit": "r22:t53",
+      "file": "glyphs/SHOOT.png",
+      "raw_file": "glyphs/SHOOT.raw.png",
+      "source_box_ltrb": [
+        934,
+        1084,
+        950,
+        1109
+      ],
+      "context_file": "glyphs/contexts/SHOOT.png",
+      "context_box_ltrb": [
+        922,
+        1063,
+        961,
+        1132
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "SIGMA_CURL",
+      "source_unit": "r15:t28",
+      "file": "glyphs/SIGMA_CURL.png",
+      "raw_file": "glyphs/SIGMA_CURL.raw.png",
+      "source_box_ltrb": [
+        563,
+        753,
+        590,
+        780
+      ],
+      "context_file": "glyphs/contexts/SIGMA_CURL.png",
+      "context_box_ltrb": [
+        551,
+        730,
+        597,
+        799
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "SLOOP",
+      "source_unit": "r20:t07",
+      "file": "glyphs/SLOOP.png",
+      "raw_file": "glyphs/SLOOP.raw.png",
+      "source_box_ltrb": [
+        191,
+        1001,
+        202,
+        1019
+      ],
+      "context_file": "glyphs/contexts/SLOOP.png",
+      "context_box_ltrb": [
+        175,
+        974,
+        217,
+        1043
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "STAFFDOT",
+      "source_unit": "r08:t32",
+      "file": "glyphs/STAFFDOT.png",
+      "raw_file": "glyphs/STAFFDOT.raw.png",
+      "source_box_ltrb": [
+        618,
+        435,
+        628,
+        463
+      ],
+      "context_file": "glyphs/contexts/STAFFDOT.png",
+      "context_box_ltrb": [
+        601,
+        410,
+        642,
+        479
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "STEMCIRCLE",
+      "source_unit": "r24:t06",
+      "file": "glyphs/STEMCIRCLE.png",
+      "raw_file": "glyphs/STEMCIRCLE.raw.png",
+      "source_box_ltrb": [
+        166,
+        1167,
+        179,
+        1191
+      ],
+      "context_file": "glyphs/contexts/STEMCIRCLE.png",
+      "context_box_ltrb": [
+        153,
+        1147,
+        195,
+        1216
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "STEMCIRCLE_DARK",
+      "source_unit": "r10:t52",
+      "file": "glyphs/STEMCIRCLE_DARK.png",
+      "raw_file": "glyphs/STEMCIRCLE_DARK.raw.png",
+      "source_box_ltrb": [
+        1004,
+        524,
+        1018,
+        548
+      ],
+      "context_file": "glyphs/contexts/STEMCIRCLE_DARK.png",
+      "context_box_ltrb": [
+        999,
+        503,
+        1042,
+        572
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "HEAVY_INK",
+      "note": "The only occurrence has a heavily filled circular body. Its internal contour cannot be clarified from this image.",
+      "defect_sites": []
+    },
+    {
+      "label": "TARGET",
+      "source_unit": "r01:t32",
+      "file": "glyphs/TARGET.png",
+      "raw_file": "glyphs/TARGET.raw.png",
+      "source_box_ltrb": [
+        632,
+        112,
+        647,
+        122
+      ],
+      "context_file": "glyphs/contexts/TARGET.png",
+      "context_box_ltrb": [
+        614,
+        72,
+        659,
+        141
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "TAU",
+      "source_unit": "r17:t31",
+      "file": "glyphs/TAU.png",
+      "raw_file": "glyphs/TAU.raw.png",
+      "source_box_ltrb": [
+        584,
+        852,
+        593,
+        865
+      ],
+      "context_file": "glyphs/contexts/TAU.png",
+      "context_box_ltrb": [
+        567,
+        826,
+        609,
+        895
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "TBASE",
+      "source_unit": "r16:t51",
+      "file": "glyphs/TBASE.png",
+      "raw_file": "glyphs/TBASE.raw.png",
+      "source_box_ltrb": [
+        910,
+        799,
+        928,
+        816
+      ],
+      "context_file": "glyphs/contexts/TBASE.png",
+      "context_box_ltrb": [
+        898,
+        778,
+        942,
+        847
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "THETA",
+      "source_unit": "r22:t07",
+      "file": "glyphs/THETA.png",
+      "raw_file": "glyphs/THETA.raw.png",
+      "source_box_ltrb": [
+        161,
+        1079,
+        175,
+        1100
+      ],
+      "context_file": "glyphs/contexts/THETA.png",
+      "context_box_ltrb": [
+        147,
+        1063,
+        188,
+        1132
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "THETA_BLOTTED",
+      "source_unit": "r22:t57",
+      "file": "glyphs/THETA_BLOTTED.png",
+      "raw_file": "glyphs/THETA_BLOTTED.raw.png",
+      "source_box_ltrb": [
+        982,
+        1073,
+        1000,
+        1097
+      ],
+      "context_file": "glyphs/contexts/THETA_BLOTTED.png",
+      "context_box_ltrb": [
+        974,
+        1063,
+        1007,
+        1132
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "BLOTTED;DEFECT_SITE;BOUNDARY_UNCLEAR",
+      "note": "Only occurrence; explicitly recorded as a blotted defect. The left boundary is close to adjoining ink; no internal contour is reconstructed.",
+      "defect_sites": [
+        "r22_BLOTTED"
+      ]
+    },
+    {
+      "label": "THREEBAR_LEFT",
+      "source_unit": "r18:t04",
+      "file": "glyphs/THREEBAR_LEFT.png",
+      "raw_file": "glyphs/THREEBAR_LEFT.raw.png",
+      "source_box_ltrb": [
+        132,
+        879,
+        143,
+        915
+      ],
+      "context_file": "glyphs/contexts/THREEBAR_LEFT.png",
+      "context_box_ltrb": [
+        114,
+        873,
+        156,
+        942
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "OVERSTROKE_BOUNDARY_UNCLEAR",
+      "note": "The long upright and possible overhead stroke have no secure separating gap; the complete upright is retained.",
+      "defect_sites": []
+    },
+    {
+      "label": "TRAPEZOID",
+      "source_unit": "r02:t45",
+      "file": "glyphs/TRAPEZOID.png",
+      "raw_file": "glyphs/TRAPEZOID.raw.png",
+      "source_box_ltrb": [
+        849,
+        153,
+        866,
+        168
+      ],
+      "context_file": "glyphs/contexts/TRAPEZOID.png",
+      "context_box_ltrb": [
+        832,
+        121,
+        877,
+        190
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "TRI",
+      "source_unit": "r19:t10",
+      "file": "glyphs/TRI.png",
+      "raw_file": "glyphs/TRI.raw.png",
+      "source_box_ltrb": [
+        237,
+        956,
+        254,
+        970
+      ],
+      "context_file": "glyphs/contexts/TRI.png",
+      "context_box_ltrb": [
+        223,
+        923,
+        262,
+        992
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "TRIPLEBAR",
+      "source_unit": "r23:t35",
+      "file": "glyphs/TRIPLEBAR.png",
+      "raw_file": "glyphs/TRIPLEBAR.raw.png",
+      "source_box_ltrb": [
+        637,
+        1125,
+        661,
+        1142
+      ],
+      "context_file": "glyphs/contexts/TRIPLEBAR.png",
+      "context_box_ltrb": [
+        631,
+        1104,
+        675,
+        1173
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "UP_ARROW",
+      "source_unit": "r19:t37",
+      "file": "glyphs/UP_ARROW.png",
+      "raw_file": "glyphs/UP_ARROW.raw.png",
+      "source_box_ltrb": [
+        763,
+        951,
+        777,
+        974
+      ],
+      "context_file": "glyphs/contexts/UP_ARROW.png",
+      "context_box_ltrb": [
+        750,
+        923,
+        793,
+        992
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "VENUS",
+      "source_unit": "r01:t23",
+      "file": "glyphs/VENUS.png",
+      "raw_file": "glyphs/VENUS.raw.png",
+      "source_box_ltrb": [
+        466,
+        100,
+        479,
+        121
+      ],
+      "context_file": "glyphs/contexts/VENUS.png",
+      "context_box_ltrb": [
+        450,
+        72,
+        492,
+        141
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "V_SHARP",
+      "source_unit": "r04:t37",
+      "file": "glyphs/V_SHARP.png",
+      "raw_file": "glyphs/V_SHARP.raw.png",
+      "source_box_ltrb": [
+        721,
+        250,
+        731,
+        261
+      ],
+      "context_file": "glyphs/contexts/V_SHARP.png",
+      "context_box_ltrb": [
+        707,
+        218,
+        745,
+        287
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "WAVE",
+      "source_unit": "r15:t04",
+      "file": "glyphs/WAVE.png",
+      "raw_file": "glyphs/WAVE.raw.png",
+      "source_box_ltrb": [
+        136,
+        761,
+        159,
+        770
+      ],
+      "context_file": "glyphs/contexts/WAVE.png",
+      "context_box_ltrb": [
+        124,
+        730,
+        171,
+        799
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "X_LOOP",
+      "source_unit": "r23:t52",
+      "file": "glyphs/X_LOOP.png",
+      "raw_file": "glyphs/X_LOOP.raw.png",
+      "source_box_ltrb": [
+        958,
+        1123,
+        973,
+        1146
+      ],
+      "context_file": "glyphs/contexts/X_LOOP.png",
+      "context_box_ltrb": [
+        942,
+        1104,
+        982,
+        1173
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "Y",
+      "source_unit": "r08:t04",
+      "file": "glyphs/Y.png",
+      "raw_file": "glyphs/Y.raw.png",
+      "source_box_ltrb": [
+        138,
+        430,
+        147,
+        454
+      ],
+      "context_file": "glyphs/contexts/Y.png",
+      "context_box_ltrb": [
+        122,
+        410,
+        166,
+        479
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "YDOT",
+      "source_unit": "r23:t51",
+      "file": "glyphs/YDOT.png",
+      "raw_file": "glyphs/YDOT.raw.png",
+      "source_box_ltrb": [
+        938,
+        1126,
+        951,
+        1148
+      ],
+      "context_file": "glyphs/contexts/YDOT.png",
+      "context_box_ltrb": [
+        924,
+        1104,
+        965,
+        1173
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "YLOOP",
+      "source_unit": "r15:t51",
+      "file": "glyphs/YLOOP.png",
+      "raw_file": "glyphs/YLOOP.raw.png",
+      "source_box_ltrb": [
+        1001,
+        746,
+        1011,
+        772
+      ],
+      "context_file": "glyphs/contexts/YLOOP.png",
+      "context_box_ltrb": [
+        984,
+        730,
+        1025,
+        799
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "Y_LOWERLOOP",
+      "source_unit": "r01:t17",
+      "file": "glyphs/Y_LOWERLOOP.png",
+      "raw_file": "glyphs/Y_LOWERLOOP.raw.png",
+      "source_box_ltrb": [
+        345,
+        111,
+        355,
+        134
+      ],
+      "context_file": "glyphs/contexts/Y_LOWERLOOP.png",
+      "context_box_ltrb": [
+        336,
+        72,
+        378,
+        141
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "Z",
+      "source_unit": "r16:t13",
+      "file": "glyphs/Z.png",
+      "raw_file": "glyphs/Z.raw.png",
+      "source_box_ltrb": [
+        264,
+        800,
+        278,
+        813
+      ],
+      "context_file": "glyphs/contexts/Z.png",
+      "context_box_ltrb": [
+        249,
+        778,
+        291,
+        847
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "ZBAR",
+      "source_unit": "r24:t05",
+      "file": "glyphs/ZBAR.png",
+      "raw_file": "glyphs/ZBAR.raw.png",
+      "source_box_ltrb": [
+        147,
+        1177,
+        163,
+        1191
+      ],
+      "context_file": "glyphs/contexts/ZBAR.png",
+      "context_box_ltrb": [
+        136,
+        1147,
+        176,
+        1216
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "ZDOT",
+      "source_unit": "r17:t22",
+      "file": "glyphs/ZDOT.png",
+      "raw_file": "glyphs/ZDOT.raw.png",
+      "source_box_ltrb": [
+        440,
+        852,
+        457,
+        866
+      ],
+      "context_file": "glyphs/contexts/ZDOT.png",
+      "context_box_ltrb": [
+        425,
+        826,
+        468,
+        895
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "ZSHORT",
+      "source_unit": "r07:t53",
+      "file": "glyphs/ZSHORT.png",
+      "raw_file": "glyphs/ZSHORT.raw.png",
+      "source_box_ltrb": [
+        975,
+        389,
+        987,
+        407
+      ],
+      "context_file": "glyphs/contexts/ZSHORT.png",
+      "context_box_ltrb": [
+        964,
+        361,
+        1004,
+        430
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "a",
+      "source_unit": "r10:t03",
+      "file": "glyphs/lower_a.png",
+      "raw_file": "glyphs/lower_a.raw.png",
+      "source_box_ltrb": [
+        117,
+        536,
+        127,
+        546
+      ],
+      "context_file": "glyphs/contexts/lower_a.png",
+      "context_box_ltrb": [
+        101,
+        503,
+        144,
+        572
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "b",
+      "source_unit": "r09:t40",
+      "file": "glyphs/b.png",
+      "raw_file": "glyphs/b.raw.png",
+      "source_box_ltrb": [
+        761,
+        483,
+        771,
+        504
+      ],
+      "context_file": "glyphs/contexts/b.png",
+      "context_box_ltrb": [
+        746,
+        455,
+        789,
+        524
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "c",
+      "source_unit": "r18:t38",
+      "file": "glyphs/c.png",
+      "raw_file": "glyphs/c.raw.png",
+      "source_box_ltrb": [
+        754,
+        903,
+        763,
+        914
+      ],
+      "context_file": "glyphs/contexts/c.png",
+      "context_box_ltrb": [
+        738,
+        873,
+        778,
+        942
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "d",
+      "source_unit": "r21:t11",
+      "file": "glyphs/d.png",
+      "raw_file": "glyphs/d.raw.png",
+      "source_box_ltrb": [
+        232,
+        1045,
+        246,
+        1061
+      ],
+      "context_file": "glyphs/contexts/d.png",
+      "context_box_ltrb": [
+        219,
+        1021,
+        255,
+        1090
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "e",
+      "source_unit": "r22:t55",
+      "file": "glyphs/lower_e.png",
+      "raw_file": "glyphs/lower_e.raw.png",
+      "source_box_ltrb": [
+        962,
+        1083,
+        972,
+        1094
+      ],
+      "context_file": "glyphs/contexts/lower_e.png",
+      "context_box_ltrb": [
+        951,
+        1063,
+        987,
+        1132
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "g",
+      "source_unit": "r22:t01",
+      "file": "glyphs/g.png",
+      "raw_file": "glyphs/g.raw.png",
+      "source_box_ltrb": [
+        72,
+        1088,
+        86,
+        1112
+      ],
+      "context_file": "glyphs/contexts/g.png",
+      "context_box_ltrb": [
+        53,
+        1063,
+        98,
+        1132
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "h",
+      "source_unit": "r14:t05",
+      "file": "glyphs/lower_h.png",
+      "raw_file": "glyphs/lower_h.raw.png",
+      "source_box_ltrb": [
+        152,
+        700,
+        167,
+        722
+      ],
+      "context_file": "glyphs/contexts/lower_h.png",
+      "context_box_ltrb": [
+        139,
+        682,
+        181,
+        751
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "i",
+      "source_unit": "r09:t47",
+      "file": "glyphs/i.png",
+      "raw_file": "glyphs/i.raw.png",
+      "source_box_ltrb": [
+        910,
+        484,
+        916,
+        501
+      ],
+      "context_file": "glyphs/contexts/i.png",
+      "context_box_ltrb": [
+        889,
+        455,
+        930,
+        524
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "j",
+      "source_unit": "r18:t33",
+      "file": "glyphs/j.png",
+      "raw_file": "glyphs/j.raw.png",
+      "source_box_ltrb": [
+        660,
+        905,
+        669,
+        926
+      ],
+      "context_file": "glyphs/contexts/j.png",
+      "context_box_ltrb": [
+        644,
+        873,
+        682,
+        942
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "k",
+      "source_unit": "r08:t09",
+      "file": "glyphs/k.png",
+      "raw_file": "glyphs/k.raw.png",
+      "source_box_ltrb": [
+        221,
+        438,
+        236,
+        453
+      ],
+      "context_file": "glyphs/contexts/k.png",
+      "context_box_ltrb": [
+        212,
+        410,
+        255,
+        479
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "l",
+      "source_unit": "r16:t37",
+      "file": "glyphs/l.png",
+      "raw_file": "glyphs/l.raw.png",
+      "source_box_ltrb": [
+        685,
+        800,
+        691,
+        816
+      ],
+      "context_file": "glyphs/contexts/l.png",
+      "context_box_ltrb": [
+        669,
+        778,
+        705,
+        847
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "m",
+      "source_unit": "r22:t29",
+      "file": "glyphs/m.png",
+      "raw_file": "glyphs/m.raw.png",
+      "source_box_ltrb": [
+        527,
+        1089,
+        543,
+        1099
+      ],
+      "context_file": "glyphs/contexts/m.png",
+      "context_box_ltrb": [
+        512,
+        1063,
+        551,
+        1132
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "n",
+      "source_unit": "r12:t08",
+      "file": "glyphs/n.png",
+      "raw_file": "glyphs/n.raw.png",
+      "source_box_ltrb": [
+        222,
+        628,
+        232,
+        639
+      ],
+      "context_file": "glyphs/contexts/n.png",
+      "context_box_ltrb": [
+        203,
+        595,
+        247,
+        664
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "o",
+      "source_unit": "r24:t20",
+      "file": "glyphs/o.png",
+      "raw_file": "glyphs/o.raw.png",
+      "source_box_ltrb": [
+        438,
+        1168,
+        453,
+        1188
+      ],
+      "context_file": "glyphs/contexts/o.png",
+      "context_box_ltrb": [
+        425,
+        1147,
+        466,
+        1216
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "p",
+      "source_unit": "r13:t52",
+      "file": "glyphs/lower_p.png",
+      "raw_file": "glyphs/lower_p.raw.png",
+      "source_box_ltrb": [
+        970,
+        667,
+        982,
+        687
+      ],
+      "context_file": "glyphs/contexts/lower_p.png",
+      "context_box_ltrb": [
+        961,
+        639,
+        999,
+        708
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "q",
+      "source_unit": "r08:t46",
+      "file": "glyphs/lower_q.png",
+      "raw_file": "glyphs/lower_q.raw.png",
+      "source_box_ltrb": [
+        866,
+        446,
+        877,
+        463
+      ],
+      "context_file": "glyphs/contexts/lower_q.png",
+      "context_box_ltrb": [
+        859,
+        410,
+        900,
+        479
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "r",
+      "source_unit": "r15:t05",
+      "file": "glyphs/r.png",
+      "raw_file": "glyphs/r.raw.png",
+      "source_box_ltrb": [
+        166,
+        757,
+        176,
+        772
+      ],
+      "context_file": "glyphs/contexts/r.png",
+      "context_box_ltrb": [
+        148,
+        730,
+        189,
+        799
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "rho",
+      "source_unit": "r23:t31",
+      "file": "glyphs/lower_rho.png",
+      "raw_file": "glyphs/lower_rho.raw.png",
+      "source_box_ltrb": [
+        572,
+        1131,
+        586,
+        1150
+      ],
+      "context_file": "glyphs/contexts/lower_rho.png",
+      "context_box_ltrb": [
+        563,
+        1104,
+        601,
+        1173
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "w",
+      "source_unit": "r10:t38",
+      "file": "glyphs/w.png",
+      "raw_file": "glyphs/w.raw.png",
+      "source_box_ltrb": [
+        736,
+        537,
+        749,
+        548
+      ],
+      "context_file": "glyphs/contexts/w.png",
+      "context_box_ltrb": [
+        723,
+        503,
+        761,
+        572
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "FAINT_SINGLETON",
+      "note": "The only occurrence is faint. Its weak right upright is retained without strengthening or redrawing.",
+      "defect_sites": []
+    },
+    {
+      "label": "x",
+      "source_unit": "r24:t35",
+      "file": "glyphs/x.png",
+      "raw_file": "glyphs/x.raw.png",
+      "source_box_ltrb": [
+        700,
+        1168,
+        719,
+        1180
+      ],
+      "context_file": "glyphs/contexts/x.png",
+      "context_box_ltrb": [
+        685,
+        1147,
+        730,
+        1216
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "x_BLOTTED",
+      "source_unit": "r21:t46",
+      "file": "glyphs/x_BLOTTED.png",
+      "raw_file": "glyphs/x_BLOTTED.raw.png",
+      "source_box_ltrb": [
+        868,
+        1044,
+        889,
+        1080
+      ],
+      "context_file": "glyphs/contexts/x_BLOTTED.png",
+      "context_box_ltrb": [
+        854,
+        1021,
+        898,
+        1090
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "BLOTTED;DEFECT_SITE;OVERSTROKE_BOUNDARY_UNCLEAR",
+      "note": "Only occurrence; recorded blotted defect with a connected downward smear. The uncertain stroke shape is retained.",
+      "defect_sites": [
+        "r21_BLOTTED"
+      ]
+    },
+    {
+      "label": "y",
+      "source_unit": "r02:t43",
+      "file": "glyphs/lower_y.png",
+      "raw_file": "glyphs/lower_y.raw.png",
+      "source_box_ltrb": [
+        808,
+        159,
+        821,
+        178
+      ],
+      "context_file": "glyphs/contexts/lower_y.png",
+      "context_box_ltrb": [
+        795,
+        121,
+        834,
+        190
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    },
+    {
+      "label": "z",
+      "source_unit": "r19:t16",
+      "file": "glyphs/lower_z.png",
+      "raw_file": "glyphs/lower_z.raw.png",
+      "source_box_ltrb": [
+        351,
+        959,
+        362,
+        972
+      ],
+      "context_file": "glyphs/contexts/lower_z.png",
+      "context_box_ltrb": [
+        332,
+        923,
+        375,
+        992
+      ],
+      "excluded_rectangles_ltrb": [],
+      "flag": "",
+      "note": "",
+      "defect_sites": []
+    }
+  ]
+}

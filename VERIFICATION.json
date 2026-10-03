@@ -1,0 +1,106 @@
+{
+  "package": "Marmont_Solution_v1.0.0",
+  "status": "PASS",
+  "validation_date": "2026-09-19",
+  "execution_environment": {
+    "python": "3.12.14",
+    "pillow": "12.3.0"
+  },
+  "commands_tested_after_clean_zip_extraction": [
+    {
+      "command": "python3 verify.py",
+      "status": "PASS",
+      "exit_code": 0
+    },
+    {
+      "command": "python3 reproduce.py",
+      "status": "PASS",
+      "exit_code": 0
+    },
+    {
+      "command": "python3 verify.py --text-only",
+      "status": "PASS_TEXT_ONLY",
+      "exit_code": 0
+    },
+    {
+      "command": "python3 reproduce.py --text-only --out results/text_only",
+      "status": "PASS_TEXT_ONLY",
+      "exit_code": 0
+    }
+  ],
+  "solution_checks": {
+    "pass": true,
+    "rows": 24,
+    "units": 1310,
+    "cipher_units": 1300,
+    "cleartext_units": 10,
+    "cipher_labels": 155,
+    "cleartext_labels": 8,
+    "singleton_cipher_labels": 50,
+    "evidence_classes": {
+      "A": 1232,
+      "B": 54,
+      "C": 14,
+      "cleartext": 10
+    },
+    "contextual_labels": 48,
+    "explicit_alternative_labels": 6,
+    "editorial_interventions_replayed": 29,
+    "target_unresolved": true,
+    "french_paragraphs_match_rows": true,
+    "supporting_evidence": {
+      "defect_sites": 17,
+      "class_C_units_covered": 14,
+      "gap_sites": 4,
+      "reported_partial_key_labels": 33,
+      "reported_partial_key_units": 435,
+      "historical_comparison_rows": 10,
+      "central_sequence_positions": 7
+    },
+    "independent_literal_byte_match": true,
+    "regenerated_text_files": 3
+  },
+  "image_checks": {
+    "pass": true,
+    "status": "PASS",
+    "glyphs": 155,
+    "grayscale_companions": 155,
+    "source_contexts": 155,
+    "unit_crops": 1310,
+    "row_crops": 24,
+    "contact_sheets": 1,
+    "checked_image_files": 1800,
+    "checked_media_files": 1802,
+    "cleartext_labels_skipped": 8,
+    "threshold": 225,
+    "padding_px": 3,
+    "selected_defect_labels": [
+      "THETA_BLOTTED",
+      "x_BLOTTED"
+    ]
+  },
+  "reproduction_comparison": {
+    "pass": true,
+    "text_files_byte_compared": 6,
+    "images_pixel_compared": 1800
+  },
+  "offline_reader_checks": {
+    "pass": true,
+    "local_links_checked": 4645,
+    "external_references_not_fetched": 0,
+    "regenerated_html_byte_match": true
+  },
+  "tamper_detection": {
+    "altered_glyph_or_grayscale_pixels": "rejected",
+    "unexpected_image_metadata": "rejected",
+    "missing_or_altered_unit_crop": "rejected",
+    "key_disagrees_with_unit_ledger": "rejected",
+    "missing_transcription": "rejected",
+    "invalid_editorial_coordinates": "rejected",
+    "removed_explicit_alternative": "rejected",
+    "stale_defect_label": "rejected",
+    "wrong_partial_key_address": "rejected",
+    "altered_literal_output": "rejected"
+  },
+  "scope": "Checks establish package integrity and reproducibility of the final proposed solution from the supplied key, transcription, editorial inputs and source pixels. They do not authenticate historical truth or unique decipherment."
+}

@@ -1,0 +1,850 @@
+{
+  "schema_version": 1,
+  "description": "Current image-defect and missing-letter apparatus for the proposed solution.",
+  "source_id": "cipher_plate",
+  "source_size_px": [
+    1051,
+    1246
+  ],
+  "coordinates": "Top-left pixel origin. bbox_ltrb is [left, top, right, bottom]; left/top inclusive, right/bottom exclusive.",
+  "addresses": "Row and token positions are 1-based in revised_tokens.txt. source_units identifies existing signs. For gaps these are neighboring signs, not missing cipher units.",
+  "edited_letters": "Letters used by the editorial reading at the site; they do not change the canonical token stream or key. At the two blotted sites the proposed literal letters already equal the edited letters.",
+  "comparison_labels_by_letter": "Final cipher labels with the stated single-letter key value, provided for comparison; this is not a claim that those glyphs occur at the defect site.",
+  "scope": "17 sites comprise 13 existing-unit sites spanning 14 class-C units, plus four gaps. Origin assessments are undecidable; favored explanations are hypotheses.",
+  "resolution_limit": "The available cipher detail is 1051 x 1246 pixels, reproduced from a 1202 x 1836 page. Individual signs span only tens of pixels. Fine lost or merged strokes, original ink and reproduction loss cannot be distinguished conclusively; an independent manuscript witness has not established the origin of these anomalies.",
+  "counts": {
+    "sites": 17,
+    "existing_unit_sites": 13,
+    "existing_cipher_units": 14,
+    "gap_sites": 4
+  },
+  "sites": [
+    {
+      "id": "r02_DONNES",
+      "kind": "existing_unit",
+      "row": 2,
+      "token_span_1based_inclusive": [
+        23,
+        23
+      ],
+      "source_units": [
+        "r02_t23"
+      ],
+      "current_labels": [
+        "g"
+      ],
+      "literal_values": [
+        "S"
+      ],
+      "edited_letters": "R",
+      "existing_cipher_units_at_site": 1,
+      "context_token_span_1based_inclusive": [
+        21,
+        25
+      ],
+      "bbox_ltrb": [
+        408,
+        124,
+        497,
+        184
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "g-like bowl and returned descender agree with other g units. No R-label family gives a closer supported reading.",
+      "interpretation": "An enciphering substitution is favored by the visible S-valued form; its origin remains undecidable. Literal S is retained.",
+      "comparison_labels_by_letter": {
+        "R": [
+          "79",
+          "JCROSS",
+          "OVERLINEARC",
+          "VENUS",
+          "Z",
+          "ZBAR"
+        ]
+      }
+    },
+    {
+      "id": "r04_MUNICHE_gap",
+      "kind": "gap",
+      "row": 4,
+      "token_span_1based_inclusive": [
+        13,
+        14
+      ],
+      "source_units": [
+        "r04_t13",
+        "r04_t14"
+      ],
+      "current_labels": [
+        "A",
+        "55"
+      ],
+      "literal_values": [
+        "E",
+        "P"
+      ],
+      "edited_letters": "T",
+      "existing_cipher_units_at_site": 0,
+      "context_token_span_1based_inclusive": [
+        11,
+        16
+      ],
+      "bbox_ltrb": [
+        244,
+        221,
+        353,
+        281
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "No separately bounded extra glyph is visible between A and 55. Both A exemplars have the same basic crossbar; no T can be split off on the available pixels.",
+      "interpretation": "An omission is possible; no additional cipher unit is supported. T is supplied only in the editorial reading.",
+      "comparison_labels_by_letter": {
+        "T": [
+          "65",
+          "69",
+          "CROSSED_DOUBLE_LOOP",
+          "DOUBLEX",
+          "DTRI",
+          "DTRIDOT",
+          "LT",
+          "OPEN_DTRI",
+          "q"
+        ]
+      },
+      "gap_between_units": [
+        "r04_t13",
+        "r04_t14"
+      ]
+    },
+    {
+      "id": "r04_MILL_gap",
+      "kind": "gap",
+      "row": 4,
+      "token_span_1based_inclusive": [
+        55,
+        55
+      ],
+      "source_units": [
+        "r04_t55"
+      ],
+      "current_labels": [
+        "FOURSTACK"
+      ],
+      "literal_values": [
+        "L"
+      ],
+      "edited_letters": "E",
+      "existing_cipher_units_at_site": 0,
+      "context_token_span_1based_inclusive": [
+        53,
+        55
+      ],
+      "bbox_ltrb": [
+        999,
+        221,
+        1051,
+        281
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "The row meets the reproduced right edge. No separate E appears before the next row begins with P; the image cannot establish whether a mark was lost at the edge.",
+      "interpretation": "Reproduction clipping and an original omission both remain possible. E is supplied only in the editorial reading.",
+      "comparison_labels_by_letter": {
+        "E": [
+          "35",
+          "A",
+          "DBLCROSS",
+          "R_FORK",
+          "STAFFDOT",
+          "STEMCIRCLE",
+          "STEMCIRCLE_DARK",
+          "o",
+          "r"
+        ]
+      },
+      "gap_between_units": [
+        "r04_t55",
+        "r05_t01"
+      ],
+      "adjacent_row": 5,
+      "adjacent_row_bbox_ltrb": [
+        62,
+        267,
+        104,
+        327
+      ]
+    },
+    {
+      "id": "r05_ERT",
+      "kind": "existing_unit",
+      "row": 5,
+      "token_span_1based_inclusive": [
+        10,
+        10
+      ],
+      "source_units": [
+        "r05_t10"
+      ],
+      "current_labels": [
+        "79"
+      ],
+      "literal_values": [
+        "R"
+      ],
+      "edited_letters": "S",
+      "existing_cipher_units_at_site": 1,
+      "context_token_span_1based_inclusive": [
+        8,
+        12
+      ],
+      "bbox_ltrb": [
+        175,
+        267,
+        263,
+        327
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "The digits read 79: compare the closed lower 9 and the 76 exemplars. Replacing 79 globally with S would damage the other 28 occurrences.",
+      "interpretation": "An enciphering substitution is favored by the visible R-valued form; its origin remains undecidable. Literal R is retained.",
+      "comparison_labels_by_letter": {
+        "S": [
+          "76",
+          ":",
+          "BANG_CURLED",
+          "LOW_INWARD_ARCH",
+          "SEMICOLON",
+          "Y_LOWERLOOP",
+          "g"
+        ]
+      }
+    },
+    {
+      "id": "r05_CAMPI",
+      "kind": "existing_unit",
+      "row": 5,
+      "token_span_1based_inclusive": [
+        16,
+        16
+      ],
+      "source_units": [
+        "r05_t16"
+      ],
+      "current_labels": [
+        "b"
+      ],
+      "literal_values": [
+        "I"
+      ],
+      "edited_letters": "E",
+      "existing_cipher_units_at_site": 1,
+      "context_token_span_1based_inclusive": [
+        14,
+        18
+      ],
+      "bbox_ltrb": [
+        275,
+        267,
+        373,
+        327
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "Short ascender and right bowl match b. The needed E families have a fork, staff, crossed stroke, numeral, A or circular stem; none supports a local relabel.",
+      "interpretation": "An enciphering substitution is favored by the visible I-valued form; its origin remains undecidable. Literal I is retained.",
+      "comparison_labels_by_letter": {
+        "E": [
+          "35",
+          "A",
+          "DBLCROSS",
+          "R_FORK",
+          "STAFFDOT",
+          "STEMCIRCLE",
+          "STEMCIRCLE_DARK",
+          "o",
+          "r"
+        ]
+      }
+    },
+    {
+      "id": "r06_AUERSTAF",
+      "kind": "existing_unit",
+      "row": 6,
+      "token_span_1based_inclusive": [
+        59,
+        59
+      ],
+      "source_units": [
+        "r06_t59"
+      ],
+      "current_labels": [
+        "m"
+      ],
+      "literal_values": [
+        "F"
+      ],
+      "edited_letters": "EDT",
+      "existing_cipher_units_at_site": 1,
+      "context_token_span_1based_inclusive": [
+        57,
+        59
+      ],
+      "bbox_ltrb": [
+        1006,
+        315,
+        1051,
+        375
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "The final sign is m-shaped like the six other m occurrences. No separate E/D/T units can be segmented here. Expanding it to EDT would be a positional exception.",
+      "interpretation": "Historical name spelling or an enciphering error may explain the mismatch. Literal F is retained; EDT is an editorial name restoration.",
+      "comparison_labels_by_letter": {
+        "D": [
+          "81",
+          "TRAPEZOID",
+          "Y",
+          "n"
+        ],
+        "E": [
+          "35",
+          "A",
+          "DBLCROSS",
+          "R_FORK",
+          "STAFFDOT",
+          "STEMCIRCLE",
+          "STEMCIRCLE_DARK",
+          "o",
+          "r"
+        ],
+        "T": [
+          "65",
+          "69",
+          "CROSSED_DOUBLE_LOOP",
+          "DOUBLEX",
+          "DTRI",
+          "DTRIDOT",
+          "LT",
+          "OPEN_DTRI",
+          "q"
+        ]
+      },
+      "adjacent_row": 7,
+      "adjacent_row_bbox_ltrb": [
+        63,
+        364,
+        107,
+        424
+      ]
+    },
+    {
+      "id": "r07_BAREUTH_gap",
+      "kind": "gap",
+      "row": 7,
+      "token_span_1based_inclusive": [
+        8,
+        9
+      ],
+      "source_units": [
+        "r07_t08",
+        "r07_t09"
+      ],
+      "current_labels": [
+        "CURLD",
+        "79"
+      ],
+      "literal_values": [
+        "A",
+        "R"
+      ],
+      "edited_letters": "Y",
+      "existing_cipher_units_at_site": 0,
+      "context_token_span_1based_inclusive": [
+        6,
+        11
+      ],
+      "bbox_ltrb": [
+        142,
+        364,
+        249,
+        424
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "No separate triangle or numeral 17 is visible between CURLD and 79. A merged Y is not demonstrated. Inserting Y is a name restoration; omission versus a spelling variant is not settled by this witness.",
+      "interpretation": "The conventional name restoration does not prove an original defect. Y is supplied only in the editorial reading.",
+      "comparison_labels_by_letter": {
+        "Y": [
+          "17",
+          "TRI"
+        ]
+      },
+      "gap_between_units": [
+        "r07_t08",
+        "r07_t09"
+      ]
+    },
+    {
+      "id": "r08_HOMMET",
+      "kind": "existing_unit",
+      "row": 8,
+      "token_span_1based_inclusive": [
+        24,
+        24
+      ],
+      "source_units": [
+        "r08_t24"
+      ],
+      "current_labels": [
+        "q"
+      ],
+      "literal_values": [
+        "T"
+      ],
+      "edited_letters": "S",
+      "existing_cipher_units_at_site": 1,
+      "context_token_span_1based_inclusive": [
+        22,
+        26
+      ],
+      "bbox_ltrb": [
+        451,
+        413,
+        536,
+        473
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "The nearly straight descending stem falls within variation among q exemplars. No diagnostic g return is resolved; a faint g curl lost in reproduction cannot be excluded.",
+      "interpretation": "q/T is the working transcription. The historical glyph identity and the cause of the mismatch remain unresolved. HOMMET is literal; HOMMES is editorial.",
+      "comparison_labels_by_letter": {
+        "S": [
+          "76",
+          ":",
+          "BANG_CURLED",
+          "LOW_INWARD_ARCH",
+          "SEMICOLON",
+          "Y_LOWERLOOP",
+          "g"
+        ]
+      }
+    },
+    {
+      "id": "r11_QUSTRE",
+      "kind": "existing_unit",
+      "row": 11,
+      "token_span_1based_inclusive": [
+        24,
+        24
+      ],
+      "source_units": [
+        "r11_t24"
+      ],
+      "current_labels": [
+        "g"
+      ],
+      "literal_values": [
+        "S"
+      ],
+      "edited_letters": "A",
+      "existing_cipher_units_at_site": 1,
+      "context_token_span_1based_inclusive": [
+        22,
+        26
+      ],
+      "bbox_ltrb": [
+        435,
+        550,
+        531,
+        610
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "The sign is faint but has a g-like return. Loss of a small distinguishing detail versus an A-family sign cannot be excluded at native resolution.",
+      "interpretation": "A g/S form and a damaged A-valued form remain possible. Literal S is retained; A is editorial.",
+      "comparison_labels_by_letter": {
+        "A": [
+          "22",
+          "CURLD",
+          "FANCY_W",
+          "FORKED_HOOK",
+          "LOOP8",
+          "MU",
+          "PHI_ROUND_MIDDLE",
+          "TBASE",
+          "UP_ARROW",
+          "d",
+          "w"
+        ]
+      }
+    },
+    {
+      "id": "r12_QTI",
+      "kind": "existing_unit",
+      "row": 12,
+      "token_span_1based_inclusive": [
+        48,
+        48
+      ],
+      "source_units": [
+        "r12_t48"
+      ],
+      "current_labels": [
+        "q"
+      ],
+      "literal_values": [
+        "T"
+      ],
+      "edited_letters": "U",
+      "existing_cipher_units_at_site": 1,
+      "context_token_span_1based_inclusive": [
+        46,
+        49
+      ],
+      "bbox_ltrb": [
+        904,
+        598,
+        994,
+        658
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "Loop with descending right stem falls within q exemplars. The question-mark, phi, dotted-cross and 82 families for U are visually different.",
+      "interpretation": "An enciphering substitution is favored by the visible T-valued form; its origin remains undecidable. Literal T is retained.",
+      "comparison_labels_by_letter": {
+        "U": [
+          "82",
+          "?",
+          "PHI",
+          "PLUS4DOT"
+        ]
+      }
+    },
+    {
+      "id": "r13_TDERGANISENT",
+      "kind": "existing_unit",
+      "row": 13,
+      "token_span_1based_inclusive": [
+        1,
+        2
+      ],
+      "source_units": [
+        "r13_t01",
+        "r13_t02"
+      ],
+      "current_labels": [
+        "q",
+        "+"
+      ],
+      "literal_values": [
+        "T",
+        "DE"
+      ],
+      "edited_letters": "SO",
+      "existing_cipher_units_at_site": 2,
+      "context_token_span_1based_inclusive": [
+        1,
+        4
+      ],
+      "bbox_ltrb": [
+        61,
+        642,
+        144,
+        702
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "Two units are visible: q followed by +. Both have repeated exemplars. Neither a hidden S/O unit nor a supported alternate segmentation is visible.",
+      "interpretation": "An enciphering substitution is favored by the two visible forms; its origin remains undecidable. Literal T + DE is retained; SO is editorial.",
+      "comparison_labels_by_letter": {
+        "O": [
+          "42",
+          "DIVBAR",
+          "H",
+          "ZDOT",
+          "y"
+        ],
+        "S": [
+          "76",
+          ":",
+          "BANG_CURLED",
+          "LOW_INWARD_ARCH",
+          "SEMICOLON",
+          "Y_LOWERLOOP",
+          "g"
+        ]
+      }
+    },
+    {
+      "id": "r13_TOURES",
+      "kind": "existing_unit",
+      "row": 13,
+      "token_span_1based_inclusive": [
+        16,
+        16
+      ],
+      "source_units": [
+        "r13_t16"
+      ],
+      "current_labels": [
+        "JCROSS"
+      ],
+      "literal_values": [
+        "R"
+      ],
+      "edited_letters": "T",
+      "existing_cipher_units_at_site": 1,
+      "context_token_span_1based_inclusive": [
+        14,
+        18
+      ],
+      "bbox_ltrb": [
+        304,
+        642,
+        396,
+        702
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "Tall crossed stem and lower hook match JCROSS. No needed-T label is visibly established at this position.",
+      "interpretation": "An enciphering substitution is favored by the visible R-valued form; its origin remains undecidable. Literal R is retained.",
+      "comparison_labels_by_letter": {
+        "T": [
+          "65",
+          "69",
+          "CROSSED_DOUBLE_LOOP",
+          "DOUBLEX",
+          "DTRI",
+          "DTRIDOT",
+          "LT",
+          "OPEN_DTRI",
+          "q"
+        ]
+      }
+    },
+    {
+      "id": "r14_TOUR",
+      "kind": "existing_unit",
+      "row": 14,
+      "token_span_1based_inclusive": [
+        21,
+        21
+      ],
+      "source_units": [
+        "r14_t21"
+      ],
+      "current_labels": [
+        "OVERLINEARC"
+      ],
+      "literal_values": [
+        "R"
+      ],
+      "edited_letters": "S",
+      "existing_cipher_units_at_site": 1,
+      "context_token_span_1based_inclusive": [
+        19,
+        23
+      ],
+      "bbox_ltrb": [
+        439,
+        685,
+        544,
+        745
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "Short upper bar and low curve match OVERLINEARC, including other low and flattened exemplars. Neither a colon nor g/76-like S form is supported.",
+      "interpretation": "An enciphering substitution is favored by the visible R-valued form; its origin remains undecidable. Literal R is retained.",
+      "comparison_labels_by_letter": {
+        "S": [
+          "76",
+          ":",
+          "BANG_CURLED",
+          "LOW_INWARD_ARCH",
+          "SEMICOLON",
+          "Y_LOWERLOOP",
+          "g"
+        ]
+      }
+    },
+    {
+      "id": "r18_SEMBLANT",
+      "kind": "existing_unit",
+      "row": 18,
+      "token_span_1based_inclusive": [
+        50,
+        50
+      ],
+      "source_units": [
+        "r18_t50"
+      ],
+      "current_labels": [
+        "d"
+      ],
+      "literal_values": [
+        "A"
+      ],
+      "edited_letters": "E",
+      "existing_cipher_units_at_site": 1,
+      "context_token_span_1based_inclusive": [
+        48,
+        52
+      ],
+      "bbox_ltrb": [
+        910,
+        876,
+        1001,
+        936
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "Faint rounded form with an upper curl is compatible with d; comparison with o/STEMCIRCLE and the other E families does not resolve the fine contour.",
+      "interpretation": "A d/A form and a damaged E-valued form remain possible. Literal A is retained; E is editorial.",
+      "comparison_labels_by_letter": {
+        "E": [
+          "35",
+          "A",
+          "DBLCROSS",
+          "R_FORK",
+          "STAFFDOT",
+          "STEMCIRCLE",
+          "STEMCIRCLE_DARK",
+          "o",
+          "r"
+        ]
+      }
+    },
+    {
+      "id": "r20_DISPOSIONS_gap",
+      "kind": "gap",
+      "row": 20,
+      "token_span_1based_inclusive": [
+        50,
+        51
+      ],
+      "source_units": [
+        "r20_t50",
+        "r20_t51"
+      ],
+      "current_labels": [
+        "DIV",
+        "42"
+      ],
+      "literal_values": [
+        "I",
+        "O"
+      ],
+      "edited_letters": "TI",
+      "existing_cipher_units_at_site": 0,
+      "context_token_span_1based_inclusive": [
+        48,
+        53
+      ],
+      "bbox_ltrb": [
+        887,
+        977,
+        1003,
+        1037
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "The DIV and following 42 are individually visible; no additional TI pair or merged T form is resolved in the gap. An inserted TI would add plaintext without image-supported units.",
+      "interpretation": "An omission is possible; no additional cipher unit is supported. TI is supplied only in the editorial reading.",
+      "comparison_labels_by_letter": {
+        "I": [
+          "96",
+          "DIV",
+          "ZSHORT",
+          "b",
+          "z"
+        ],
+        "T": [
+          "65",
+          "69",
+          "CROSSED_DOUBLE_LOOP",
+          "DOUBLEX",
+          "DTRI",
+          "DTRIDOT",
+          "LT",
+          "OPEN_DTRI",
+          "q"
+        ]
+      },
+      "gap_between_units": [
+        "r20_t50",
+        "r20_t51"
+      ]
+    },
+    {
+      "id": "r21_BLOTTED",
+      "kind": "existing_unit",
+      "row": 21,
+      "token_span_1based_inclusive": [
+        46,
+        46
+      ],
+      "source_units": [
+        "r21_t46"
+      ],
+      "current_labels": [
+        "x_BLOTTED"
+      ],
+      "literal_values": [
+        "N"
+      ],
+      "edited_letters": "N",
+      "existing_cipher_units_at_site": 1,
+      "context_token_span_1based_inclusive": [
+        44,
+        48
+      ],
+      "bbox_ltrb": [
+        814,
+        1024,
+        928,
+        1084
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "A heavy crossing blot obscures the central sign. The long dark descender prevents a secure identity with ordinary x exemplars. N is retained as a proposal, not promoted through the x family.",
+      "interpretation": "The original ink or reproduction defect and the glyph identity are unresolved. N remains a proposed key value.",
+      "comparison_labels_by_letter": {
+        "N": [
+          "2",
+          "20",
+          "31",
+          "CROSSED_CURL",
+          "X_LOOP",
+          "x",
+          "x_BLOTTED"
+        ]
+      }
+    },
+    {
+      "id": "r22_BLOTTED",
+      "kind": "existing_unit",
+      "row": 22,
+      "token_span_1based_inclusive": [
+        57,
+        57
+      ],
+      "source_units": [
+        "r22_t57"
+      ],
+      "current_labels": [
+        "THETA_BLOTTED"
+      ],
+      "literal_values": [
+        "C"
+      ],
+      "edited_letters": "C",
+      "existing_cipher_units_at_site": 1,
+      "context_token_span_1based_inclusive": [
+        55,
+        59
+      ],
+      "bbox_ltrb": [
+        959,
+        1066,
+        1030,
+        1126
+      ],
+      "origin_assessment": "UNDECIDABLE",
+      "visual_finding": "Triangular upper contour and rounded bowl are visible, but the dark interior obscures the stroke structure. Resemblance to THETA does not authenticate the C value.",
+      "interpretation": "The original ink or reproduction defect and the glyph identity are unresolved. C remains a proposed key value.",
+      "comparison_labels_by_letter": {
+        "C": [
+          "47",
+          "THETA",
+          "THETA_BLOTTED",
+          "j"
+        ]
+      }
+    }
+  ]
+}

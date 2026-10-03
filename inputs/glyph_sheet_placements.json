@@ -1,0 +1,1242 @@
+[
+  {
+    "label": "22",
+    "file": "glyphs/22.png",
+    "x": 79,
+    "y": 124,
+    "width": 25,
+    "height": 19
+  },
+  {
+    "label": "CURLD",
+    "file": "glyphs/CURLD.png",
+    "x": 227,
+    "y": 120,
+    "width": 17,
+    "height": 28
+  },
+  {
+    "label": "FANCY_W",
+    "file": "glyphs/FANCY_W.png",
+    "x": 369,
+    "y": 121,
+    "width": 22,
+    "height": 26
+  },
+  {
+    "label": "FORKED_HOOK",
+    "file": "glyphs/FORKED_HOOK.png",
+    "x": 515,
+    "y": 123,
+    "width": 17,
+    "height": 21
+  },
+  {
+    "label": "LOOP8",
+    "file": "glyphs/LOOP8.png",
+    "x": 657,
+    "y": 119,
+    "width": 21,
+    "height": 30
+  },
+  {
+    "label": "MU",
+    "file": "glyphs/MU.png",
+    "x": 802,
+    "y": 120,
+    "width": 20,
+    "height": 27
+  },
+  {
+    "label": "PHI_ROUND_MIDDLE",
+    "file": "glyphs/PHI_ROUND_MIDDLE.png",
+    "x": 946,
+    "y": 118,
+    "width": 19,
+    "height": 31
+  },
+  {
+    "label": "TBASE",
+    "file": "glyphs/TBASE.png",
+    "x": 1088,
+    "y": 122,
+    "width": 24,
+    "height": 23
+  },
+  {
+    "label": "UP_ARROW",
+    "file": "glyphs/UP_ARROW.png",
+    "x": 1234,
+    "y": 119,
+    "width": 20,
+    "height": 29
+  },
+  {
+    "label": "d",
+    "file": "glyphs/d.png",
+    "x": 1378,
+    "y": 123,
+    "width": 20,
+    "height": 22
+  },
+  {
+    "label": "w",
+    "file": "glyphs/w.png",
+    "x": 82,
+    "y": 240,
+    "width": 19,
+    "height": 17
+  },
+  {
+    "label": "!",
+    "file": "glyphs/exclamation_mark.png",
+    "x": 231,
+    "y": 233,
+    "width": 10,
+    "height": 31
+  },
+  {
+    "label": "OPEN_CUP",
+    "file": "glyphs/OPEN_CUP.png",
+    "x": 371,
+    "y": 240,
+    "width": 18,
+    "height": 18
+  },
+  {
+    "label": "47",
+    "file": "glyphs/47.png",
+    "x": 512,
+    "y": 236,
+    "width": 24,
+    "height": 26
+  },
+  {
+    "label": "THETA",
+    "file": "glyphs/THETA.png",
+    "x": 658,
+    "y": 235,
+    "width": 20,
+    "height": 27
+  },
+  {
+    "label": "THETA_BLOTTED",
+    "file": "glyphs/THETA_BLOTTED.png",
+    "x": 800,
+    "y": 234,
+    "width": 24,
+    "height": 30
+  },
+  {
+    "label": "j",
+    "file": "glyphs/j.png",
+    "x": 948,
+    "y": 235,
+    "width": 15,
+    "height": 27
+  },
+  {
+    "label": "81",
+    "file": "glyphs/81.png",
+    "x": 1090,
+    "y": 239,
+    "width": 19,
+    "height": 20
+  },
+  {
+    "label": "TRAPEZOID",
+    "file": "glyphs/TRAPEZOID.png",
+    "x": 1232,
+    "y": 238,
+    "width": 23,
+    "height": 21
+  },
+  {
+    "label": "Y",
+    "file": "glyphs/Y.png",
+    "x": 1380,
+    "y": 234,
+    "width": 15,
+    "height": 30
+  },
+  {
+    "label": "n",
+    "file": "glyphs/n.png",
+    "x": 84,
+    "y": 355,
+    "width": 16,
+    "height": 17
+  },
+  {
+    "label": "35",
+    "file": "glyphs/35.png",
+    "x": 224,
+    "y": 353,
+    "width": 23,
+    "height": 21
+  },
+  {
+    "label": "A",
+    "file": "glyphs/A.png",
+    "x": 367,
+    "y": 351,
+    "width": 25,
+    "height": 25
+  },
+  {
+    "label": "DBLCROSS",
+    "file": "glyphs/DBLCROSS.png",
+    "x": 515,
+    "y": 348,
+    "width": 17,
+    "height": 32
+  },
+  {
+    "label": "R_FORK",
+    "file": "glyphs/R_FORK.png",
+    "x": 659,
+    "y": 354,
+    "width": 18,
+    "height": 20
+  },
+  {
+    "label": "STAFFDOT",
+    "file": "glyphs/STAFFDOT.png",
+    "x": 804,
+    "y": 347,
+    "width": 16,
+    "height": 34
+  },
+  {
+    "label": "STEMCIRCLE",
+    "file": "glyphs/STEMCIRCLE.png",
+    "x": 946,
+    "y": 349,
+    "width": 19,
+    "height": 30
+  },
+  {
+    "label": "STEMCIRCLE_DARK",
+    "file": "glyphs/STEMCIRCLE_DARK.png",
+    "x": 1090,
+    "y": 349,
+    "width": 20,
+    "height": 30
+  },
+  {
+    "label": "o",
+    "file": "glyphs/o.png",
+    "x": 1233,
+    "y": 351,
+    "width": 21,
+    "height": 26
+  },
+  {
+    "label": "r",
+    "file": "glyphs/r.png",
+    "x": 1380,
+    "y": 353,
+    "width": 16,
+    "height": 21
+  },
+  {
+    "label": "68",
+    "file": "glyphs/68.png",
+    "x": 79,
+    "y": 468,
+    "width": 26,
+    "height": 22
+  },
+  {
+    "label": "LOOP8_CLOSED",
+    "file": "glyphs/LOOP8_CLOSED.png",
+    "x": 229,
+    "y": 465,
+    "width": 14,
+    "height": 28
+  },
+  {
+    "label": "m",
+    "file": "glyphs/m.png",
+    "x": 369,
+    "y": 471,
+    "width": 22,
+    "height": 16
+  },
+  {
+    "label": "27",
+    "file": "glyphs/27.png",
+    "x": 511,
+    "y": 465,
+    "width": 26,
+    "height": 28
+  },
+  {
+    "label": "OMEGA",
+    "file": "glyphs/OMEGA.png",
+    "x": 652,
+    "y": 467,
+    "width": 32,
+    "height": 24
+  },
+  {
+    "label": "PLUS_LEFT_DOTS",
+    "file": "glyphs/PLUS_LEFT_DOTS.png",
+    "x": 800,
+    "y": 468,
+    "width": 23,
+    "height": 22
+  },
+  {
+    "label": "a",
+    "file": "glyphs/lower_a.png",
+    "x": 948,
+    "y": 471,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "label": "73",
+    "file": "glyphs/73.png",
+    "x": 1087,
+    "y": 467,
+    "width": 25,
+    "height": 24
+  },
+  {
+    "label": "DOTTEDBOX3",
+    "file": "glyphs/DOTTEDBOX3.png",
+    "x": 1232,
+    "y": 470,
+    "width": 24,
+    "height": 18
+  },
+  {
+    "label": "RECTSTACK",
+    "file": "glyphs/RECTSTACK.png",
+    "x": 1376,
+    "y": 466,
+    "width": 24,
+    "height": 25
+  },
+  {
+    "label": "TRIPLEBAR",
+    "file": "glyphs/TRIPLEBAR.png",
+    "x": 77,
+    "y": 582,
+    "width": 30,
+    "height": 23
+  },
+  {
+    "label": "p",
+    "file": "glyphs/lower_p.png",
+    "x": 227,
+    "y": 581,
+    "width": 18,
+    "height": 26
+  },
+  {
+    "label": "rho",
+    "file": "glyphs/lower_rho.png",
+    "x": 370,
+    "y": 581,
+    "width": 20,
+    "height": 25
+  },
+  {
+    "label": "96",
+    "file": "glyphs/96.png",
+    "x": 510,
+    "y": 584,
+    "width": 28,
+    "height": 20
+  },
+  {
+    "label": "DIV",
+    "file": "glyphs/DIV.png",
+    "x": 659,
+    "y": 585,
+    "width": 18,
+    "height": 17
+  },
+  {
+    "label": "ZSHORT",
+    "file": "glyphs/ZSHORT.png",
+    "x": 803,
+    "y": 582,
+    "width": 18,
+    "height": 24
+  },
+  {
+    "label": "b",
+    "file": "glyphs/b.png",
+    "x": 948,
+    "y": 580,
+    "width": 16,
+    "height": 27
+  },
+  {
+    "label": "z",
+    "file": "glyphs/lower_z.png",
+    "x": 1091,
+    "y": 584,
+    "width": 17,
+    "height": 19
+  },
+  {
+    "label": "26",
+    "file": "glyphs/26.png",
+    "x": 1230,
+    "y": 583,
+    "width": 27,
+    "height": 22
+  },
+  {
+    "label": "E",
+    "file": "glyphs/E.png",
+    "x": 1379,
+    "y": 585,
+    "width": 17,
+    "height": 18
+  },
+  {
+    "label": "THREEBAR_LEFT",
+    "file": "glyphs/THREEBAR_LEFT.png",
+    "x": 83,
+    "y": 688,
+    "width": 17,
+    "height": 42
+  },
+  {
+    "label": "33",
+    "file": "glyphs/33.png",
+    "x": 225,
+    "y": 698,
+    "width": 22,
+    "height": 22
+  },
+  {
+    "label": "V_SHARP",
+    "file": "glyphs/V_SHARP.png",
+    "x": 372,
+    "y": 700,
+    "width": 16,
+    "height": 17
+  },
+  {
+    "label": "59",
+    "file": "glyphs/59.png",
+    "x": 512,
+    "y": 697,
+    "width": 23,
+    "height": 23
+  },
+  {
+    "label": "FOURSTACK",
+    "file": "glyphs/FOURSTACK.png",
+    "x": 658,
+    "y": 692,
+    "width": 20,
+    "height": 34
+  },
+  {
+    "label": "c",
+    "file": "glyphs/c.png",
+    "x": 804,
+    "y": 700,
+    "width": 15,
+    "height": 17
+  },
+  {
+    "label": "e",
+    "file": "glyphs/lower_e.png",
+    "x": 948,
+    "y": 700,
+    "width": 16,
+    "height": 17
+  },
+  {
+    "label": "12",
+    "file": "glyphs/12.png",
+    "x": 1089,
+    "y": 699,
+    "width": 21,
+    "height": 19
+  },
+  {
+    "label": "IDOUBLE",
+    "file": "glyphs/IDOUBLE.png",
+    "x": 1233,
+    "y": 698,
+    "width": 21,
+    "height": 22
+  },
+  {
+    "label": "RHO_LOW",
+    "file": "glyphs/RHO_LOW.png",
+    "x": 1378,
+    "y": 696,
+    "width": 20,
+    "height": 25
+  },
+  {
+    "label": "SHOOT",
+    "file": "glyphs/SHOOT.png",
+    "x": 81,
+    "y": 808,
+    "width": 22,
+    "height": 31
+  },
+  {
+    "label": "i",
+    "file": "glyphs/i.png",
+    "x": 230,
+    "y": 812,
+    "width": 12,
+    "height": 23
+  },
+  {
+    "label": "2",
+    "file": "glyphs/2.png",
+    "x": 371,
+    "y": 815,
+    "width": 17,
+    "height": 17
+  },
+  {
+    "label": "20",
+    "file": "glyphs/20.png",
+    "x": 512,
+    "y": 815,
+    "width": 23,
+    "height": 18
+  },
+  {
+    "label": "31",
+    "file": "glyphs/31.png",
+    "x": 658,
+    "y": 813,
+    "width": 20,
+    "height": 22
+  },
+  {
+    "label": "CROSSED_CURL",
+    "file": "glyphs/CROSSED_CURL.png",
+    "x": 799,
+    "y": 814,
+    "width": 26,
+    "height": 20
+  },
+  {
+    "label": "X_LOOP",
+    "file": "glyphs/X_LOOP.png",
+    "x": 945,
+    "y": 809,
+    "width": 21,
+    "height": 29
+  },
+  {
+    "label": "x",
+    "file": "glyphs/x.png",
+    "x": 1087,
+    "y": 815,
+    "width": 25,
+    "height": 18
+  },
+  {
+    "label": "x_BLOTTED",
+    "file": "glyphs/x_BLOTTED.png",
+    "x": 1230,
+    "y": 803,
+    "width": 27,
+    "height": 42
+  },
+  {
+    "label": "42",
+    "file": "glyphs/42.png",
+    "x": 1376,
+    "y": 812,
+    "width": 24,
+    "height": 23
+  },
+  {
+    "label": "DIVBAR",
+    "file": "glyphs/DIVBAR.png",
+    "x": 81,
+    "y": 929,
+    "width": 21,
+    "height": 20
+  },
+  {
+    "label": "H",
+    "file": "glyphs/H.png",
+    "x": 227,
+    "y": 920,
+    "width": 17,
+    "height": 37
+  },
+  {
+    "label": "ZDOT",
+    "file": "glyphs/ZDOT.png",
+    "x": 368,
+    "y": 929,
+    "width": 23,
+    "height": 20
+  },
+  {
+    "label": "y",
+    "file": "glyphs/lower_y.png",
+    "x": 514,
+    "y": 926,
+    "width": 19,
+    "height": 25
+  },
+  {
+    "label": "55",
+    "file": "glyphs/55.png",
+    "x": 656,
+    "y": 930,
+    "width": 24,
+    "height": 18
+  },
+  {
+    "label": "E_NARROW",
+    "file": "glyphs/E_NARROW.png",
+    "x": 805,
+    "y": 929,
+    "width": 13,
+    "height": 20
+  },
+  {
+    "label": "RECT",
+    "file": "glyphs/RECT.png",
+    "x": 944,
+    "y": 929,
+    "width": 23,
+    "height": 19
+  },
+  {
+    "label": "RECT_DOT",
+    "file": "glyphs/RECT_DOT.png",
+    "x": 1085,
+    "y": 927,
+    "width": 29,
+    "height": 24
+  },
+  {
+    "label": "64",
+    "file": "glyphs/64.png",
+    "x": 1232,
+    "y": 929,
+    "width": 23,
+    "height": 20
+  },
+  {
+    "label": "PARALLELOGRAM",
+    "file": "glyphs/PARALLELOGRAM.png",
+    "x": 1372,
+    "y": 926,
+    "width": 31,
+    "height": 25
+  },
+  {
+    "label": "h",
+    "file": "glyphs/lower_h.png",
+    "x": 81,
+    "y": 1040,
+    "width": 21,
+    "height": 28
+  },
+  {
+    "label": "79",
+    "file": "glyphs/79.png",
+    "x": 223,
+    "y": 1042,
+    "width": 26,
+    "height": 24
+  },
+  {
+    "label": "JCROSS",
+    "file": "glyphs/JCROSS.png",
+    "x": 370,
+    "y": 1039,
+    "width": 20,
+    "height": 29
+  },
+  {
+    "label": "OVERLINEARC",
+    "file": "glyphs/OVERLINEARC.png",
+    "x": 513,
+    "y": 1045,
+    "width": 21,
+    "height": 18
+  },
+  {
+    "label": "VENUS",
+    "file": "glyphs/VENUS.png",
+    "x": 658,
+    "y": 1040,
+    "width": 19,
+    "height": 27
+  },
+  {
+    "label": "Z",
+    "file": "glyphs/Z.png",
+    "x": 802,
+    "y": 1044,
+    "width": 20,
+    "height": 19
+  },
+  {
+    "label": "ZBAR",
+    "file": "glyphs/ZBAR.png",
+    "x": 945,
+    "y": 1044,
+    "width": 22,
+    "height": 20
+  },
+  {
+    "label": "76",
+    "file": "glyphs/76.png",
+    "x": 1088,
+    "y": 1046,
+    "width": 23,
+    "height": 16
+  },
+  {
+    "label": ":",
+    "file": "glyphs/colon.png",
+    "x": 1238,
+    "y": 1043,
+    "width": 11,
+    "height": 21
+  },
+  {
+    "label": "BANG_CURLED",
+    "file": "glyphs/BANG_CURLED.png",
+    "x": 1382,
+    "y": 1039,
+    "width": 11,
+    "height": 30
+  },
+  {
+    "label": "LOW_INWARD_ARCH",
+    "file": "glyphs/LOW_INWARD_ARCH.png",
+    "x": 74,
+    "y": 1145,
+    "width": 35,
+    "height": 47
+  },
+  {
+    "label": "SEMICOLON",
+    "file": "glyphs/SEMICOLON.png",
+    "x": 231,
+    "y": 1158,
+    "width": 9,
+    "height": 21
+  },
+  {
+    "label": "Y_LOWERLOOP",
+    "file": "glyphs/Y_LOWERLOOP.png",
+    "x": 372,
+    "y": 1154,
+    "width": 16,
+    "height": 29
+  },
+  {
+    "label": "g",
+    "file": "glyphs/g.png",
+    "x": 514,
+    "y": 1154,
+    "width": 20,
+    "height": 30
+  },
+  {
+    "label": "65",
+    "file": "glyphs/65.png",
+    "x": 656,
+    "y": 1158,
+    "width": 23,
+    "height": 21
+  },
+  {
+    "label": "69",
+    "file": "glyphs/69.png",
+    "x": 797,
+    "y": 1156,
+    "width": 30,
+    "height": 26
+  },
+  {
+    "label": "CROSSED_DOUBLE_LOOP",
+    "file": "glyphs/CROSSED_DOUBLE_LOOP.png",
+    "x": 940,
+    "y": 1150,
+    "width": 31,
+    "height": 37
+  },
+  {
+    "label": "DOUBLEX",
+    "file": "glyphs/DOUBLEX.png",
+    "x": 1088,
+    "y": 1158,
+    "width": 23,
+    "height": 22
+  },
+  {
+    "label": "DTRI",
+    "file": "glyphs/DTRI.png",
+    "x": 1233,
+    "y": 1159,
+    "width": 21,
+    "height": 19
+  },
+  {
+    "label": "DTRIDOT",
+    "file": "glyphs/DTRIDOT.png",
+    "x": 1377,
+    "y": 1159,
+    "width": 22,
+    "height": 19
+  },
+  {
+    "label": "LT",
+    "file": "glyphs/LT.png",
+    "x": 81,
+    "y": 1274,
+    "width": 22,
+    "height": 19
+  },
+  {
+    "label": "OPEN_DTRI",
+    "file": "glyphs/OPEN_DTRI.png",
+    "x": 226,
+    "y": 1273,
+    "width": 19,
+    "height": 21
+  },
+  {
+    "label": "q",
+    "file": "glyphs/lower_q.png",
+    "x": 371,
+    "y": 1272,
+    "width": 17,
+    "height": 23
+  },
+  {
+    "label": "82",
+    "file": "glyphs/82.png",
+    "x": 512,
+    "y": 1274,
+    "width": 23,
+    "height": 19
+  },
+  {
+    "label": "?",
+    "file": "glyphs/question_mark.png",
+    "x": 662,
+    "y": 1271,
+    "width": 12,
+    "height": 25
+  },
+  {
+    "label": "PHI",
+    "file": "glyphs/PHI.png",
+    "x": 804,
+    "y": 1268,
+    "width": 15,
+    "height": 31
+  },
+  {
+    "label": "PLUS4DOT",
+    "file": "glyphs/PLUS4DOT.png",
+    "x": 947,
+    "y": 1274,
+    "width": 18,
+    "height": 20
+  },
+  {
+    "label": "15",
+    "file": "glyphs/15.png",
+    "x": 1089,
+    "y": 1271,
+    "width": 21,
+    "height": 26
+  },
+  {
+    "label": "PI_HOOK",
+    "file": "glyphs/PI_HOOK.png",
+    "x": 1232,
+    "y": 1267,
+    "width": 23,
+    "height": 33
+  },
+  {
+    "label": "TAU",
+    "file": "glyphs/TAU.png",
+    "x": 1380,
+    "y": 1274,
+    "width": 15,
+    "height": 19
+  },
+  {
+    "label": "WAVE",
+    "file": "glyphs/WAVE.png",
+    "x": 77,
+    "y": 1391,
+    "width": 29,
+    "height": 15
+  },
+  {
+    "label": "BRANCH3",
+    "file": "glyphs/BRANCH3.png",
+    "x": 225,
+    "y": 1388,
+    "width": 21,
+    "height": 21
+  },
+  {
+    "label": "k",
+    "file": "glyphs/k.png",
+    "x": 369,
+    "y": 1388,
+    "width": 21,
+    "height": 21
+  },
+  {
+    "label": "17",
+    "file": "glyphs/17.png",
+    "x": 512,
+    "y": 1388,
+    "width": 24,
+    "height": 22
+  },
+  {
+    "label": "TRI",
+    "file": "glyphs/TRI.png",
+    "x": 656,
+    "y": 1389,
+    "width": 23,
+    "height": 20
+  },
+  {
+    "label": "LOOPX",
+    "file": "glyphs/LOOPX.png",
+    "x": 799,
+    "y": 1386,
+    "width": 26,
+    "height": 25
+  },
+  {
+    "label": "+",
+    "file": "glyphs/plus_sign.png",
+    "x": 945,
+    "y": 1389,
+    "width": 22,
+    "height": 19
+  },
+  {
+    "label": "FOUR_DOTS",
+    "file": "glyphs/FOUR_DOTS.png",
+    "x": 1086,
+    "y": 1388,
+    "width": 28,
+    "height": 22
+  },
+  {
+    "label": "P",
+    "file": "glyphs/P.png",
+    "x": 1234,
+    "y": 1386,
+    "width": 19,
+    "height": 25
+  },
+  {
+    "label": "SLOOP",
+    "file": "glyphs/SLOOP.png",
+    "x": 1379,
+    "y": 1387,
+    "width": 17,
+    "height": 24
+  },
+  {
+    "label": "MIRRORP",
+    "file": "glyphs/MIRRORP.png",
+    "x": 79,
+    "y": 1501,
+    "width": 25,
+    "height": 26
+  },
+  {
+    "label": "DIAG_OPPOSED_TRIANGLES",
+    "file": "glyphs/DIAG_OPPOSED_TRIANGLES.png",
+    "x": 221,
+    "y": 1500,
+    "width": 30,
+    "height": 28
+  },
+  {
+    "label": "DOWNDOUBLE",
+    "file": "glyphs/DOWNDOUBLE.png",
+    "x": 368,
+    "y": 1504,
+    "width": 24,
+    "height": 19
+  },
+  {
+    "label": "GLASSES_CROSS",
+    "file": "glyphs/GLASSES_CROSS.png",
+    "x": 508,
+    "y": 1505,
+    "width": 32,
+    "height": 17
+  },
+  {
+    "label": "DIAMONDCROSS",
+    "file": "glyphs/DIAMONDCROSS.png",
+    "x": 655,
+    "y": 1494,
+    "width": 26,
+    "height": 40
+  },
+  {
+    "label": "YDOT",
+    "file": "glyphs/YDOT.png",
+    "x": 802,
+    "y": 1500,
+    "width": 19,
+    "height": 28
+  },
+  {
+    "label": "JE_MONOGRAM",
+    "file": "glyphs/JE_MONOGRAM.png",
+    "x": 937,
+    "y": 1497,
+    "width": 37,
+    "height": 34
+  },
+  {
+    "label": "CIRCLE_TAIL",
+    "file": "glyphs/CIRCLE_TAIL.png",
+    "x": 1089,
+    "y": 1495,
+    "width": 22,
+    "height": 37
+  },
+  {
+    "label": "Q",
+    "file": "glyphs/Q.png",
+    "x": 1232,
+    "y": 1502,
+    "width": 23,
+    "height": 24
+  },
+  {
+    "label": "ARCH_COMPOUND_TALL",
+    "file": "glyphs/ARCH_COMPOUND_TALL.png",
+    "x": 1369,
+    "y": 1496,
+    "width": 37,
+    "height": 36
+  },
+  {
+    "label": "BENTL",
+    "file": "glyphs/BENTL.png",
+    "x": 83,
+    "y": 1617,
+    "width": 18,
+    "height": 24
+  },
+  {
+    "label": "BRIDGE",
+    "file": "glyphs/BRIDGE.png",
+    "x": 222,
+    "y": 1616,
+    "width": 27,
+    "height": 26
+  },
+  {
+    "label": "RANGLE",
+    "file": "glyphs/RANGLE.png",
+    "x": 367,
+    "y": 1620,
+    "width": 26,
+    "height": 17
+  },
+  {
+    "label": "RECT_B_COMPOUND",
+    "file": "glyphs/RECT_B_COMPOUND.png",
+    "x": 509,
+    "y": 1615,
+    "width": 30,
+    "height": 27
+  },
+  {
+    "label": "DIAMONDX",
+    "file": "glyphs/DIAMONDX.png",
+    "x": 660,
+    "y": 1616,
+    "width": 15,
+    "height": 25
+  },
+  {
+    "label": "ELBOW_CIRCLE",
+    "file": "glyphs/ELBOW_CIRCLE.png",
+    "x": 796,
+    "y": 1617,
+    "width": 32,
+    "height": 23
+  },
+  {
+    "label": "OMEGASTEM",
+    "file": "glyphs/OMEGASTEM.png",
+    "x": 945,
+    "y": 1616,
+    "width": 22,
+    "height": 25
+  },
+  {
+    "label": "CIRCLE_VBAR",
+    "file": "glyphs/CIRCLE_VBAR.png",
+    "x": 1088,
+    "y": 1607,
+    "width": 24,
+    "height": 44
+  },
+  {
+    "label": "HEART",
+    "file": "glyphs/HEART.png",
+    "x": 1231,
+    "y": 1616,
+    "width": 26,
+    "height": 26
+  },
+  {
+    "label": "BOWTIE",
+    "file": "glyphs/BOWTIE.png",
+    "x": 1375,
+    "y": 1617,
+    "width": 26,
+    "height": 23
+  },
+  {
+    "label": "BOWTIE_BOTTOM_FORM",
+    "file": "glyphs/BOWTIE_BOTTOM_FORM.png",
+    "x": 79,
+    "y": 1736,
+    "width": 25,
+    "height": 15
+  },
+  {
+    "label": "LAMBDA",
+    "file": "glyphs/LAMBDA.png",
+    "x": 224,
+    "y": 1733,
+    "width": 23,
+    "height": 22
+  },
+  {
+    "label": "SIGMA_CURL",
+    "file": "glyphs/SIGMA_CURL.png",
+    "x": 363,
+    "y": 1727,
+    "width": 33,
+    "height": 33
+  },
+  {
+    "label": "ORNATE_CROSSED_STEM",
+    "file": "glyphs/ORNATE_CROSSED_STEM.png",
+    "x": 511,
+    "y": 1713,
+    "width": 26,
+    "height": 62
+  },
+  {
+    "label": "l",
+    "file": "glyphs/l.png",
+    "x": 662,
+    "y": 1733,
+    "width": 12,
+    "height": 22
+  },
+  {
+    "label": "CROSSHATCH",
+    "file": "glyphs/CROSSHATCH.png",
+    "x": 799,
+    "y": 1730,
+    "width": 25,
+    "height": 27
+  },
+  {
+    "label": "YLOOP",
+    "file": "glyphs/YLOOP.png",
+    "x": 948,
+    "y": 1728,
+    "width": 16,
+    "height": 32
+  },
+  {
+    "label": "CIRCLE_CROSS",
+    "file": "glyphs/CIRCLE_CROSS.png",
+    "x": 1089,
+    "y": 1735,
+    "width": 21,
+    "height": 18
+  },
+  {
+    "label": "OVALSLASH",
+    "file": "glyphs/OVALSLASH.png",
+    "x": 1231,
+    "y": 1732,
+    "width": 26,
+    "height": 23
+  },
+  {
+    "label": "ARCH_COMPOUND",
+    "file": "glyphs/ARCH_COMPOUND.png",
+    "x": 1378,
+    "y": 1731,
+    "width": 20,
+    "height": 25
+  },
+  {
+    "label": "BOX_STEM_DOT",
+    "file": "glyphs/BOX_STEM_DOT.png",
+    "x": 81,
+    "y": 1846,
+    "width": 21,
+    "height": 25
+  },
+  {
+    "label": "RECTDOT",
+    "file": "glyphs/RECTDOT.png",
+    "x": 225,
+    "y": 1845,
+    "width": 21,
+    "height": 27
+  },
+  {
+    "label": "RECT_STEM_DOT",
+    "file": "glyphs/RECT_STEM_DOT.png",
+    "x": 370,
+    "y": 1843,
+    "width": 20,
+    "height": 32
+  },
+  {
+    "label": "RHO",
+    "file": "glyphs/RHO.png",
+    "x": 510,
+    "y": 1846,
+    "width": 28,
+    "height": 25
+  },
+  {
+    "label": "TARGET",
+    "file": "glyphs/TARGET.png",
+    "x": 657,
+    "y": 1851,
+    "width": 21,
+    "height": 16
+  }
+]

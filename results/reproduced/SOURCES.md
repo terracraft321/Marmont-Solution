@@ -1,0 +1,12 @@
+# Sources
+
+| Source | Included material | Role |
+|---|---|---|
+| J. Vilcoq, “Le Chiffre sous le Premier Empire,” *Revue historique des Armées* 25(4), 1969, pp. 22–27, cipher plate following p. 24. [Persée article](https://www.persee.fr/doc/rharm_0035-3299_1969_num_25_4_8686). | sources/cipher_plate.png; 1,051 × 1,246 pixels. | Published reproduction used for the transcription and all glyph/unit crops. |
+| *Correspondance de Napoléon Ier*, volume XVIII, Paris, 1865, no. 14908, dated 16 March 1809, pp. 356–358. [Volume](https://archive.org/details/correspondancede18napouoft), [page 356](https://archive.org/download/correspondancede18napouoft/page/n365.jpg), [page 358](https://archive.org/download/correspondancede18napouoft/page/n367.jpg). | sources/napoleon_page_358.jpg and inputs/historical_comparison.tsv. | Published instruction to Eugène with the ordered force dispositions and instruction to communicate them to Marmont in cipher. |
+| Daniel Tant / ARCSI, item 373, “Code entre Eugène de Beauharnais et le Général Grammont — 1809.” [Table](https://www.arcsi.fr/doc/Tant/373.pdf). | inputs/published_key_comparison.tsv records 33 reported matching sign-to-letter values and their final token addresses. The PDF itself is not included. | Modern partial-key comparator. The table's historical provenance and completeness are unconfirmed; the word-sign cells do not provide a complete matching codebook. |
+| Carter Church, “Breaking the Marmont Cipher, 1809,” *Signals*. [Article](https://carter.church/signals/the-letter-to-marmont/). | Research credit; the final reading and data are contained in this package. | Public account of the research. The package documents its own precise computational scope in METHODS.md. |
+
+The supplied image witnesses are sufficient to run all included offline checks. External links provide bibliographic access and are not required by the software. The full original manuscript, exact manuscript date, and modern critical-edition treatment of Napoleon's dotted omission have not been authenticated here. The proposed reading is a relay of related instructions, not an exact recovered copy of Napoleon's words.
+
+The included images retain their source attribution and original bytes. Their derivatives have no newly asserted license. Source-file and package hashes are recorded in SHA256SUMS. Glyphs and row/unit views use the plate's grayscale pixels and the numeric coordinates in inputs/.

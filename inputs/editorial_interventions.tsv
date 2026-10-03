@@ -1,0 +1,30 @@
+row	operation	candidate_start_1based	candidate_end_exclusive_1based	reading_start_1based	reading_end_exclusive_1based	candidate	reading	reason
+1	replace	37	38	37	46	¤	SAMAJESTE	TARGET is unresolved. [Sa Majesté] is a contextual expansion. Spacing, accents and punctuation are editorial.
+2	replace	9	10	9	10	I	J	DONNES→DONNER is an editorial repair; I→J in AUIOURDHUI is spelling normalization. The SS and other context-led values in CONNAISSANCE remain proposed key assignments.
+2	replace	28	29	28	29	S	R	DONNES→DONNER is an editorial repair; I→J in AUIOURDHUI is spelling normalization. The SS and other context-led values in CONNAISSANCE remain proposed key assignments.
+4	insert	14	14	14	15		T	MUNICHE→MUNICHET adds T; VV→W in Poniatowski normalizes spelling; MILL→MILLE adds E. ARCH_COMPOUND is provisionally empty, with ET retained as an alternative.
+4	replace	35	37	36	37	VV	W	MUNICHE→MUNICHET adds T; VV→W in Poniatowski normalizes spelling; MILL→MILLE adds E. ARCH_COMPOUND is provisionally empty, with ET retained as an alternative.
+4	insert	59	59	59	60		E	MUNICHE→MUNICHET adds T; VV→W in Poniatowski normalizes spelling; MILL→MILLE adds E. ARCH_COMPOUND is provisionally empty, with ET retained as an alternative.
+5	replace	10	11	10	11	R	S	ERT→EST and CAMPI→CAMPE are editorial repairs; the literal glyph values remain visible.
+5	replace	16	17	16	17	I	E	ERT→EST and CAMPI→CAMPE are editorial repairs; the literal glyph values remain visible.
+6	delete	56	57	56	56	E		AUERSTAF→AUERSTAEDT restores the historical name. DEAUERSTAF→DAUERSTAEDT also contracts DE before the vowel.
+6	replace	64	65	63	66	F	EDT	AUERSTAF→AUERSTAEDT restores the historical name. DEAUERSTAF→DAUERSTAEDT also contracts DE before the vowel.
+7	insert	9	9	9	10		Y	BAREUTH→BAYREUTH restores the place name; RIUOLI→RIVOLI normalizes U/V. The compound LE value is contextual.
+7	replace	53	54	54	55	U	V	BAREUTH→BAYREUTH restores the place name; RIUOLI→RIVOLI normalizes U/V. The compound LE value is contextual.
+8	replace	24	25	24	25	T	S	HOMMET→HOMMES is editorial; the key retains q=T. GENERAL is a contextual singleton codeword proposal. Donaverth is retained.
+9	delete	20	21	20	20	E		DEELITE→DELITE contracts the word-sign DE before ELITE. Spacing and punctuation are editorial.
+10	replace	59	60	59	60	E	U	FOUR_DOTS=DE is provisional; DANS is an alternative. The reading contracts DE and the next row’s LE to DU across the row boundary.
+11	delete	1	3	1	1	LE		QUSTRE→QUATRE is editorial. Initial LE is contracted with DE at the end of row 10 to give DU. The proposed J value is retained in AJOUTEZ.
+11	replace	26	27	24	25	S	A	QUSTRE→QUATRE is editorial. Initial LE is contracted with DE at the end of row 10 to give DU. The proposed J value is retained in AJOUTEZ.
+12	replace	50	51	50	51	T	U	QTI→QUI is editorial. The quartered-circle sign has a proposed punctuation value.
+13	replace	1	4	1	3	TDE	SO	TDERGANISENT→SORGANISENT and TOURES→TOUTES are editorial repairs; the literal values are retained in the decoding.
+13	replace	18	19	17	18	R	T	TDERGANISENT→SORGANISENT and TOURES→TOUTES are editorial repairs; the literal values are retained in the decoding.
+14	replace	22	23	22	23	R	S	TOUR→TOUS is editorial. CONSEQUENT consists of ten visible cleartext letters, not cipher units.
+17	delete	2	3	2	2	E		JEATTENDS→JATTENDS contracts JE; TOUIOURS→TOUJOURS normalizes I/J. Comma versus full stop is editorial.
+17	replace	13	14	12	13	I	J	JEATTENDS→JATTENDS contracts JE; TOUIOURS→TOUJOURS normalizes I/J. Comma versus full stop is editorial.
+18	replace	52	53	52	53	A	E	SEMBLANT→SEMBLENT is editorial. Historical place-name spellings are retained.
+19	delete	46	47	46	46	E		QUEILS→QUILS contracts QUE. LINTZ is retained without choosing between a Linz or Lienz interpretation.
+20	insert	57	57	57	59		TI	DISPOSIONS→DISPOSITIONS inserts TI editorially. The G in GALICIE is a contextual singleton assignment.
+22	delete	24	25	24	24	E		ILNEYAT→ILNYAT contracts NE before Y. RIEN and MILICES include the proposed readings of uncertain stem-circle and blotted-theta signs.
+23	delete	28	29	28	28	E		QUOIQUEON→QUOIQUON contracts QUE. The quartered circle is proposed punctuation; TRIPLEBAR=H gives CHERCHE.
+24	delete	32	33	32	32	E		DEUN→DUN contracts DE. SOYENT is retained as written rather than modernized to SOIENT; accents and punctuation are editorial.
